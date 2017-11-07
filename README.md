@@ -42,10 +42,10 @@ Event	                 | Host      | Location     | Time	   | Notes
 ### Friday, November 10
 Company	                 | Offerings         
 :---------------------:| ------------- 
-[Facebook](https://www.facebook.com/careers/)|-Oculus Virtual Reality Demos at the FB Expo Booth <br>-Networking with the FB Recruiting Team at the Expo Booth 
+[Facebook](https://www.facebook.com/careers/)|* Oculus Virtual Reality Demos at the FB Expo Booth <br>* Networking with the FB Recruiting Team at the Expo Booth 
 ### Saturday, November 11
 Company	                 | Offerings         
 :---------------------:| ------------- 
-[Facebook](https://www.facebook.com/careers/)|*Student Recruitment Office Hours *Oculus Virtual Reality Demos at the FB Expo Booth *Networking with the FB Recruiting Team at the Expo Booth
+[Facebook](https://www.facebook.com/careers/)|* Student Recruitment Office Hours <br>* Oculus Virtual Reality Demos at the FB Expo Booth <br>* Networking with the FB Recruiting Team at the Expo Booth
 
 Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events/) [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
