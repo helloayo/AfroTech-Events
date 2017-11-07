@@ -27,7 +27,7 @@ Event	                 | Host       | Location     | Time	   | Notes
 ### Saturday, November 11
 Event	                 | Host       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[A Night at the Museum Black in Tech Mixer](https://lyftblackintech.splashthat.com/) | [Lyft](https://www.lyft.com/jobs) | Museum of the African Diaspora (MoAD) <br /> 685 Mission St, San Francisco, CA 94105 | Saturday, Nov 11 | 6PM - 8PM | [RSVP](https://lyftblackintech.splashthat.com/)
+[A Night at the Museum Black in Tech Mixer](https://lyftblackintech.splashthat.com/) | [Lyft](https://www.lyft.com/jobs) | Museum of the African Diaspora (MoAD) <br /> 685 Mission St, San Francisco, CA 94105 | 6PM - 8PM | [RSVP](https://lyftblackintech.splashthat.com/)
 
 
 
