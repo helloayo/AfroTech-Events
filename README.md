@@ -9,8 +9,7 @@ Events, receptions, and parties hosted by companies during AfroTech.
 
 All events are free and located in San Francisco, CA unless otherwise noted. Please double check the times!
 
-## AfroTech Official Events
-
+## Official AfroTech Events
 Event	                 | Date          | Location     | Time	           
 :---------------------:| ------------- | ------------ | -------- 
 [Afrotech Happy Hour Presented by Facebook](http://afrotech.com/schedule/)| Friday, November 10 | Pier 27 | 6PM
