@@ -37,7 +37,7 @@ Event	                 | Host      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Open House Brunch](https://openhousebrunch.splashthat.com/)| [UBER](https://www.uber.com/careers/) | UBER HQ <br> 555 Market Street, San Francisco, CA | 11AM-5PM| [RSVP](https://openhousebrunch.splashthat.com/) <br>Find Nancy Douyon at Afrotech for guaranteed entry VIP pass
 
-##Expo Related Offerings
+## Expo Related Offerings
 
 ### Friday, November 10
 Company	                 | Offerings         
