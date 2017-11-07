@@ -12,7 +12,7 @@ All events are free and located in San Francisco, CA unless otherwise noted. Ple
 ### Official AfroTech Events
 Event	                 | Date      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Afrotech Happy Hour Presented by Facebook](http://afrotech.com/schedule/)| Friday, November 10 | Pier 27 | 6PM | For conference attendees only
+[Afrotech Happy Hour Presented by Facebook](http://afrotech.com/schedule/)| Friday, November 10 | San Francisco Marriott Marquis Hotel  | 6PM | For conference attendees only
 [Blavity x Toasted Life: The FADE - Afrotech Celebration ft. Sonny Digital](https://www.facebook.com/events/1934265903506845/)|Saturday, November 11 | The Grand Nightclub <br>520 4th Street, San Francisco, California 94107| 9PM-2AM| [Buy Tickets](https://www.facebook.com/events/1934265903506845/) 
 
 ### Thursday, November 09
@@ -37,6 +37,15 @@ Event	                 | Host      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Open House Brunch](https://openhousebrunch.splashthat.com/)| [UBER](https://www.uber.com/careers/) | UBER HQ <br> 555 Market Street, San Francisco, CA | 11AM-5PM| [RSVP](https://openhousebrunch.splashthat.com/) <br>Find Nancy Douyon at Afrotech for guaranteed entry VIP pass
 
+##Expo Related Offerings
 
+### Friday, November 10
+Company	                 | Offerings         
+:---------------------:| ------------- 
+[Facebook](https://www.facebook.com/careers/)|*Oculus Virtual Reality Demos at the FB Expo Booth *Networking with the FB Recruiting Team at the Expo Booth 
+### Saturday, November 11
+Company	                 | Offerings         
+:---------------------:| ------------- 
+[Facebook](https://www.facebook.com/careers/)|*Student Recruitment Office Hours *Oculus Virtual Reality Demos at the FB Expo Booth *Networking with the FB Recruiting Team at the Expo Booth
 
 Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events/) [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
