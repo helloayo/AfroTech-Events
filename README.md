@@ -18,8 +18,8 @@ Event	                 | Date          | Location     | Time
 ### Thursday, November 09
 Event	                 | Host      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Sista Circle Happy Hour](https://www.facebook.com/events/1678308065567147/) | [Sista Circle: Black Women in Tech](https://www.facebook.com/groups/657356877782351/) | Azucar Lounge <br> 299 9th St, San Francisco, California 94103 |  Get together for members <br> [RSVP](https://www.facebook.com/events/1678308065567147/)
-[Happy Hour with P2Health Ventures and Mailman School of Public Health](https://www.eventbrite.com/e/happy-hour-with-p2health-ventures-and-mailman-school-of-public-health-tickets-39125449272) | [P2Health](http://www.p2health.co/) | Dirty Water <br> 1355 Market Street |  [RSVP](https://www.eventbrite.com/e/happy-hour-with-p2health-ventures-and-mailman-school-of-public-health-tickets-39125449272)
+[Sista Circle Happy Hour](https://www.facebook.com/events/1678308065567147/) | [Sista Circle: Black Women in Tech](https://www.facebook.com/groups/657356877782351/) | Azucar Lounge <br> 299 9th St, San Francisco, California 94103 | 5PM-7PM | Get together for members <br> [RSVP](https://www.facebook.com/events/1678308065567147/)
+[Happy Hour with P2Health Ventures and Mailman School of Public Health](https://www.eventbrite.com/e/happy-hour-with-p2health-ventures-and-mailman-school-of-public-health-tickets-39125449272) | [P2Health](http://www.p2health.co/) | Dirty Water <br> 1355 Market Street | 6PM-8:30PM |  [RSVP](https://www.eventbrite.com/e/happy-hour-with-p2health-ventures-and-mailman-school-of-public-health-tickets-39125449272)
 ### Friday, November 10
 Event	                 | Host       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
