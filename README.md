@@ -1,5 +1,5 @@
 # Afrotech-Events
-Events, receptions, and parties hosted by companies during AfroTech.
+Events, receptions, and parties hosted by companies and groups during AfroTech.
 
 **Contribute** by sending a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), opening an [Issue](https://github.com/helloayo/Afrotech-Events/issues) or emailing [afrotech@helloayo.com](mailto:afrotech@helloayo.com). Find me anywhere [@helloayo](https://twitter.com/@helloayo)
 
