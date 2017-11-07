@@ -10,10 +10,10 @@ Events, receptions, and parties hosted by companies and groups during AfroTech.
 All events are free and located in San Francisco, CA unless otherwise noted. Please double check the times!
 
 ### Official AfroTech Events
-Event	                 | Date          | Location     | Time	           
-:---------------------:| ------------- | ------------ | -------- 
-[Afrotech Happy Hour Presented by Facebook](http://afrotech.com/schedule/)| Friday, November 10 | Pier 27 | 6PM
-[Blavity x Toasted Life: The FADE - Afrotech Celebration ft. Sonny Digital](https://www.facebook.com/events/1934265903506845/)|Saturday, November 11 | The Grand Nightclub <br>520 4th Street, San Francisco, California 94107| 9PM-2AM
+Event	                 | Date      | Location     | Time	   | Notes        
+:---------------------:| ------------- | ------------ | -------- | ------------
+[Afrotech Happy Hour Presented by Facebook](http://afrotech.com/schedule/)| Friday, November 10 | Pier 27 | 6PM | For conference attendees only
+[Blavity x Toasted Life: The FADE - Afrotech Celebration ft. Sonny Digital](https://www.facebook.com/events/1934265903506845/)|Saturday, November 11 | The Grand Nightclub <br>520 4th Street, San Francisco, California 94107| 9PM-2AM| [Buy Tickets](https://www.facebook.com/events/1934265903506845/) 
 
 ### Thursday, November 09
 Event	                 | Host      | Location     | Time	   | Notes        
