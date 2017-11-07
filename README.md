@@ -9,7 +9,7 @@ Events, receptions, and parties hosted by companies during AfroTech.
 
 All events are free and located in San Francisco, CA unless otherwise noted. Please double check the times!
 
-## Official AfroTech Events
+### Official AfroTech Events
 Event	                 | Date          | Location     | Time	           
 :---------------------:| ------------- | ------------ | -------- 
 [Afrotech Happy Hour Presented by Facebook](http://afrotech.com/schedule/)| Friday, November 10 | Pier 27 | 6PM
@@ -35,16 +35,6 @@ Event	                 | Company       | Location     | Time	   | Notes
 Event	                 | Company       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Open House Brunch](https://openhousebrunch.splashthat.com/)| UBER | UBER HQ <br> 555 Market Street, San Francisco, CA | 11AM-5PM| [RSVP](https://openhousebrunch.splashthat.com/) <br>Find Nancy Douyon at Afrotech for guaranteed entry VIP pass
-
-### Additional Events
-
-### Private Events
-
-## AfroTech-recruitment Initiatives
-
-### Company Online Events
-
-### Company Career Pages
 
 
 
