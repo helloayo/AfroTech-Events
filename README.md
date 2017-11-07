@@ -42,7 +42,7 @@ Event	                 | Host      | Location     | Time	   | Notes
 ### Friday, November 10
 Company	                 | Offerings         
 :---------------------:| ------------- 
-[Facebook](https://www.facebook.com/careers/)|*Oculus Virtual Reality Demos at the FB Expo Booth *Networking with the FB Recruiting Team at the Expo Booth 
+[Facebook](https://www.facebook.com/careers/)|-Oculus Virtual Reality Demos at the FB Expo Booth <br>-Networking with the FB Recruiting Team at the Expo Booth 
 ### Saturday, November 11
 Company	                 | Offerings         
 :---------------------:| ------------- 
