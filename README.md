@@ -41,7 +41,7 @@ Event	                 | Company       | Location     | Time	   | Notes
 
 ### Private Events
 
-## AfroTch-recruitment Initiatives
+## AfroTech-recruitment Initiatives
 
 ### Company Online Events
 
