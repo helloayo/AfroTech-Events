@@ -35,7 +35,9 @@ Event	                 | Host       | Location     | Time	   | Notes
 ### Sunday, November 12
 Event	                 | Host      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
+[The Union Presents: Detox, The Afrotech Un-Conference (A BITS & BYTES EVENT)](https://theuniondetox.splashthat.com/)| [The Union](http://www.theunion.io/) | Alena Studios <br> 2725 Magnolia St, Oakland, CA | 9AM-3PM | A pop-up brunch and free-form networking event soundtracked by DJ's to foster community connections  #AfroDetox <br>[RSVP](https://theuniondetox.splashthat.com/)
 [Open House Brunch](https://openhousebrunch.splashthat.com/)| [UBER](https://www.uber.com/careers/) | UBER HQ <br> 555 Market Street, San Francisco, CA | 11AM-5PM| [RSVP](https://openhousebrunch.splashthat.com/) <br>Find Nancy Douyon at Afrotech for guaranteed entry VIP pass
+
 
 ## Expo Related Offerings
 
