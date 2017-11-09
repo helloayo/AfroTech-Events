@@ -38,6 +38,7 @@ Event	                 | Host       | Location     | Time	   | Notes
 Event	                 | Host      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [The Union Presents: Detox, The Afrotech Un-Conference (A BITS & BYTES EVENT)](https://theuniondetox.splashthat.com/)| [The Union](http://www.theunion.io/) | Alena Studios <br> 2725 Magnolia St, Oakland, CA | 9AM-3PM | A pop-up brunch and free-form networking event soundtracked by DJ's to foster community connections  #AfroDetox <br>[RSVP](https://theuniondetox.splashthat.com/)
+[#LITBRUNCH : Bottomless Mimosas X Live DJ](https://www.eventbrite.com/e/litbrunch-bottomless-mimosas-x-live-dj-tickets-39147416978)| Connect Global Events | Joyce Gordon Gallery <br>406 14th Street Oakland, CA | 11AM-3PM | [Buy Tickets](https://www.eventbrite.com/e/litbrunch-bottomless-mimosas-x-live-dj-tickets-39147416978)
 [Open House Brunch](https://openhousebrunch.splashthat.com/)| [UBER](https://www.uber.com/careers/) | UBER HQ <br> 555 Market Street, San Francisco, CA | 11AM-5PM| [RSVP](https://openhousebrunch.splashthat.com/) <br>Find Nancy Douyon at Afrotech for guaranteed entry VIP pass
 
 
@@ -52,4 +53,4 @@ Company	                 | Offerings
 :---------------------:| ------------- 
 [Facebook](https://www.facebook.com/careers/)|* Student Recruitment Office Hours <br>* Oculus Virtual Reality Demos at the FB Expo Booth <br>* Networking with the FB Recruiting Team at the Expo Booth
 
-Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events/) [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
+Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events/), [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
