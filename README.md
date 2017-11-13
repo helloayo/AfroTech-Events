@@ -5,7 +5,9 @@ Events, receptions, and parties hosted by companies and groups during AfroTech.
 
 ## 2018 AfroTech Events
 
-2018 Location: TBD
+November 8-11, 2018
+
+Location: TBD
 
 All events are free and located in San Francisco, CA unless otherwise noted. Please double check the times!
 
@@ -14,29 +16,40 @@ Event	                 | Date      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 
 
-### Thursday, November 09
+### Thursday, November 08
 Event	                 | Host      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 
-### Friday, November 10
+### Friday, November 09
 Event	                 | Host       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 
-### Saturday, November 11
+### Saturday, November 10
 Event	                 | Host       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 
-### Sunday, November 12
+### Sunday, November 11
 Event	                 | Host      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 
 
 ## Expo Related Offerings
 
-### Friday, November 10
+### Thursday, November 08
 Company	                 | Offerings         
 :---------------------:| ------------- 
 
-### Saturday, November 11
+### Friday, November 09
 Company	                 | Offerings         
 :---------------------:| ------------- 
+
+### Saturday, November 10
+Company	                 | Offerings         
+:---------------------:| ------------- 
+
+### Sunday, November 11
+Company	                 | Offerings         
+:---------------------:| ------------- 
+
+
+Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events/), [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships), and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
