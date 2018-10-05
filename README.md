@@ -14,7 +14,7 @@ All events are free and located in San Francisco, CA unless otherwise noted. Ple
 ### Official AfroTech Events
 Event	                 | Date      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-
+[Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [Black Square Association](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  [RSVP](https://squareafrotech.splashthat.com/)
 
 ### Thursday, November 08
 Event	                 | Host      | Location     | Time	   | Notes        
