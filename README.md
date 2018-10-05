@@ -1,7 +1,7 @@
 # Afrotech-Events
 Events, receptions, and parties hosted by companies and groups during AfroTech.
 
-**Contribute** by sending a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), opening an [Issue](https://github.com/helloayo/Afrotech-Events/issues) or emailing [afrotech@helloayo.com](mailto:afrotech@helloayo.com). Find me anywhere [@helloayo](https://twitter.com/@helloayo)
+**Contribute** by sending a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), opening an [Issue](https://github.com/helloayo/Afrotech-Events/issues) or emailing [afrotech@ayosuber.com](mailto:afrotech@ayosuber.com). Find me anywhere [@helloayo](https://twitter.com/@helloayo)
 
 ## 2018 AfroTech Events
 
@@ -18,7 +18,7 @@ Event	                 | Date      | Location     | Time	   | Notes
 ### Thursday, November 08
 Event	                 | Host      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [Black Square Association](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  [RSVP](https://squareafrotech.splashthat.com/)
+[Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  [RSVP](https://squareafrotech.splashthat.com/)
 
 ### Friday, November 09
 Event	                 | Host       | Location     | Time	   | Notes        
