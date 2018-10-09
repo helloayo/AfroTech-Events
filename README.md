@@ -27,7 +27,7 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 ### Saturday, November 10
 Event	                 | Host(s)       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-
+[Consensys X Afrotech Present: The Immutables](https://calendar.consensys.net/event/theimmutables#.W7zqLhPYp-X)| [Consensys](https://new.consensys.net/careers/)| Consensys SF <br> 115 Sansome St, San Francisco, CA 94104 | 11AM-4PM |  Featuring Blockchain Panel, Open Mic, Cocktails, Food & Live DJ Set <br> [RSVP](https://calendar.consensys.net/event/theimmutables#.W7zqxxPYp-X)
 ### Sunday, November 11
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
