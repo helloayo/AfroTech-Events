@@ -14,7 +14,7 @@ All events are free and located in San Francisco, CA unless otherwise noted. Ple
 ### Official AfroTech Events
 Event	                 | Date      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-Welcome events / Happy Hours with AfroTech Partners | Thursday, November 08 | TBD | 4PM-10PM | [More Info](https://afrotech.com/events/afrotech-2018)
+Welcome events / Happy Hours with AfroTech Partners | Thursday, November 08 | Various | 4PM-10PM | [More Info](https://afrotech.com/events/afrotech-2018)
 ### Thursday, November 08
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -27,7 +27,9 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 ### Saturday, November 10
 Event	                 | Host(s)       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Consensys X Afrotech Present: The Immutables](https://calendar.consensys.net/event/theimmutables#.W7zqLhPYp-X)| [Consensys](https://new.consensys.net/careers/)| Consensys SF <br> 115 Sansome St, San Francisco, CA 94104 | 11AM-4PM |  Featuring Blockchain Panel, Open Mic, Cocktails, Food & Live DJ Set <br> [RSVP](https://calendar.consensys.net/event/theimmutables#.W7zqxxPYp-X)
+[Consensys X Afrotech Present: The Immutables](https://calendar.consensys.net/event/theimmutables#.W7zqLhPYp-X)| [Consensys](https://new.consensys.net/careers/)| Consensys SF <br> 115 Sansome St <br> San Francisco, CA 94104 | 11AM-4PM |  Featuring Blockchain Panel, Open Mic, Cocktails, Food & Live DJ Set <br> [RSVP](https://calendar.consensys.net/event/theimmutables#.W7zqxxPYp-X)
+[AfroTech Meet Up: Capital One Center for Machine Learning](https://www.eventbrite.com/e/afrotech-meet-up-capital-one-center-for-machine-learning-tickets-51096853063)| [Capital One](https://www.capitalonecareers.com/
+)| Capital One <br> 201 3rd St <br> San Francisco, CA 94103 | 11AM-4PM |  [RSVP](https://www.eventbrite.com/e/afrotech-meet-up-capital-one-center-for-machine-learning-tickets-51096853063)
 ### Sunday, November 11
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
