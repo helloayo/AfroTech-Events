@@ -7,7 +7,7 @@ Events, receptions, and parties hosted by companies and groups during [AfroTech]
 
 November 8-11, 2018
 
-Locations: <br> **Entreprenuership and Leadership track** at The Palace of Fine Arts, 3301 Lyon St, San Francisco, CA 94123 <br> **Engineering** at Bespoke in Westfield San Francisco Centre 
+Locations: <br> **Entreprenuership and Leadership track** at The Palace of Fine Arts, 3301 Lyon St, San Francisco, CA 94123 <br> **Engineering and Design** at Bespoke in Westfield San Francisco Centre 
 
 All events are free and located in San Francisco, CA unless otherwise noted. Please double check the times!
 
