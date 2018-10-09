@@ -7,18 +7,18 @@ Events, receptions, and parties hosted by companies and groups during [AfroTech]
 
 November 8-11, 2018
 
-Location: The Palace of Fine Arts, 3301 Lyon St, San Francisco, CA 94123
+Locations: **Entreprenuership and Leadership track** at The Palace of Fine Arts, 3301 Lyon St, San Francisco, CA 94123, **Engineering** at Bespoke in Westfield San Francisco Centre 
 
 All events are free and located in San Francisco, CA unless otherwise noted. Please double check the times!
 
 ### Official AfroTech Events
 Event	                 | Date      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-
+Welcome events / Happy Hours with AfroTech Partners | Thursday, November 08 | TBD | 4PM-10PM | [More Info](https://afrotech.com/events/afrotech-2018)
 ### Thursday, November 08
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  [RSVP](https://squareafrotech.splashthat.com/)
+[Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  You must RSVP to this event by 11/5/18 at 11:59pm in order to attend. <br> [RSVP](https://squareafrotech.splashthat.com/)
 
 ### Friday, November 09
 Event	                 | Host(s)       | Location     | Time	   | Notes        
