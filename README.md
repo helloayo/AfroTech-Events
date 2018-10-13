@@ -19,7 +19,7 @@ Welcome events / Happy Hours with AfroTech Partners | Thursday, November 08 | Va
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  You must RSVP to this event by 11/5/18 at 11:59pm in order to attend. <br> [RSVP](https://squareafrotech.splashthat.com/)
-
+[Nextplay Jams](https://nextplayanniversary.splashthat.com/) | [Nextplay](https://nextplayevents.com/)| Esports Arena Oakland <br> 255 2nd St Oakland, CA | 6PM-10PM | [RSVP](https://nextplayanniversary.splashthat.com/)
 ### Friday, November 09
 Event	                 | Host(s)       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
