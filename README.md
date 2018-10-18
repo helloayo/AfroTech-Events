@@ -51,8 +51,7 @@ Company	                 | Offerings
 ### Friday, November 09
 Company	                 | Offerings         
 :---------------------:| ------------- 
-[UBER](https://www.uber.com/careers/)| Lightening talks with Uber Engineers Donald Sumbry and Rick Boone <br> [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform)<br> Event Address: 1455 Market St San <br>
-Contact calvin.simmons @uber.com for more information
+[UBER](https://www.uber.com/careers/)| Lightening talks with Uber Engineers Donald Sumbry and Rick Boone [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform)<br> Event Address: 1455 Market St <br> Contact calvin.simmons @uber.com for more information
 ### Saturday, November 10
 Company	                 | Offerings         
 :---------------------:| ------------- 
