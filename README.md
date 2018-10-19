@@ -68,6 +68,7 @@ Company	                 | Offerings
 ## Travel Grants and Scholarships
 Opportunity                 | Deadline         
 :---------------------:| ------------- 
-[Google Travel and Conference Grants](https://buildyourfuture.withgoogle.com/scholarships/google-travel-and-conference-grants/)| October 19, 2018
+[Google Travel and Conference Grants](https://docs.google.com/forms/d/e/1FAIpQLSdSCJDiFvGdPYRaiIJ7MhG9KE7KLS-Y803P1Z7MiW_OjIdgMw/viewform)| October 19, 2018 | [$500 post-conference reimbursement](https://buildyourfuture.withgoogle.com/scholarships/google-travel-and-conference-grants/#!?detail-content-tabby_activeEl=detail-north-america-content) <br> For any questions, please reach out to travel-grants@google.com
+
 
 Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events/), [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships), and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
