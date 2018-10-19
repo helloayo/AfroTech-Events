@@ -21,6 +21,7 @@ Welcome events / Happy Hours with AfroTech Partners | Thursday, November 08 | Va
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Afrotech: Entrepreneur Networking Happy Hour Hosted by Thumbtack](https://www.eventbrite.com/e/afrotech-entrepreneur-networking-happy-hour-x-hosted-by-thumbtack-tickets-50671394505) | [Thumbtack](https://www.thumbtack.com/careers/) | Thumbtack HQ <br> 1355 Market St, 6th floor | 5:30PM-6PM |  [RSVP](https://www.eventbrite.com/e/afrotech-entrepreneur-networking-happy-hour-x-hosted-by-thumbtack-tickets-50671394505)
+[Abstract + Bay Area Black Designers Pre-AfroTech Happy Hour](https://www.eventbrite.com/e/abstract-bay-area-black-designers-pre-afrotech-happy-hour-tickets-50500346897) | [Abstract](https://boards.greenhouse.io/abstract) + [Bay Area Black Designers](http://www.bayareablackdesigners.com/)| Abstract's New Office <br> 255 Golden Gate Avenue | 5:30PM-8PM | This event is open to all of our tech friends across all disciplines! <br> [RSVP](https://www.eventbrite.com/e/abstract-bay-area-black-designers-pre-afrotech-happy-hour-tickets-50500346897)
 ### Thursday, November 08
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -30,7 +31,9 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 ### Friday, November 09
 Event	                 | Host(s)       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Lightening talks with Uber Engineers Donald Sumbry and Rick Boone](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform) | [Uber](https://www.uber.com/careers/) | Square HQ <br> 1455 Market St  | 6PM-9PM | Contact calvin.simmons @uber.com for more information <br> [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform)
 [Amazon Reverse Happy Hour](https://amznafrotechhappyhour.splashthat.com/) | [Amazon](https://www.amazon.jobs/)| Location given if selected to attend | 6PM-10PM | Please note: Registration does not confirm attendance. They will notify you if you are selected to attend. Additional details to follow via confirmation.  <br> [Register](https://amznafrotechhappyhour.splashthat.com/)
+[The Afropolitan #AfroTech](https://afropolitantech.eventbrite.com/?aff=HelloAyo) | [Afropolitan Group](https://www.eventbrite.com/o/afropolitan-group-11105099328)| The Holy Cow Nightclub <br> 1535 Folsom Street | 10PM-2AM | [RSVP](https://afropolitantech.eventbrite.com/?aff=HelloAyo)
 
 ### Saturday, November 10
 Event	                 | Host(s)       | Location     | Time	   | Notes        
@@ -53,7 +56,7 @@ Company	                 | Offerings
 ### Friday, November 09
 Company	                 | Offerings         
 :---------------------:| ------------- 
-[UBER](https://www.uber.com/careers/)| [Lightening talks with Uber Engineers Donald Sumbry and Rick Boone at Uber HQ](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform)<br> 6PM-9PM  <br>  Contact calvin.simmons @uber.com for more information
+
 ### Saturday, November 10
 Company	                 | Offerings         
 :---------------------:| ------------- 
