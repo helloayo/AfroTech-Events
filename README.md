@@ -25,7 +25,7 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 ### Thursday, November 08
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  You must RSVP to this event by 11/5/18 at 11:59pm in order to attend. <br> [RSVP](https://squareafrotech.splashthat.com/)
+[Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  You must [RSVP](https://squareafrotech.splashthat.com/) to this event by 11/5/18 at 11:59pm in order to attend.
 [New Relic AfroTech Dinner](https://www.eventbrite.com/e/new-relic-afrotech-dinner-tickets-50291299631) | [New Relic](https://newrelic.com/about/careers)| The Dorian <br> 2001 Chestnut Street | 6PM-9PM | [RSVP](https://www.eventbrite.com/e/new-relic-afrotech-dinner-tickets-50291299631)
 [Pinterest Palooza](https://pinterestpalooza.splashthat.com/) | [Pinterest](https://careers.pinterest.com/careers)| 580 7th Street | 6PM-9PM | [RSVP](https://pinterestpalooza.splashthat.com/)
 [Nextplay Jams](https://nextplayanniversary.splashthat.com/) | [Nextplay](https://nextplayevents.com/)| Esports Arena Oakland <br> 255 2nd St Oakland, CA | 6PM-10PM | [RSVP](https://nextplayanniversary.splashthat.com/)
