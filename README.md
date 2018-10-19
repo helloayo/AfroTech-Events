@@ -16,17 +16,18 @@ All events are free and located in San Francisco, CA unless otherwise noted. Ple
 ### Official AfroTech Events
 Event	                 | Date      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-Welcome events / Happy Hours with AfroTech Partners | Thursday, November 08 | Various | 4PM-10PM | [More Info](https://afrotech.com/events/afrotech-2018)
+
 ### Wednesday, November 07
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Afrotech: Entrepreneur Networking Happy Hour Hosted by Thumbtack](https://www.eventbrite.com/e/afrotech-entrepreneur-networking-happy-hour-x-hosted-by-thumbtack-tickets-50671394505) | [Thumbtack](https://www.thumbtack.com/careers/) | Thumbtack HQ <br> 1355 Market St, 6th floor | 5:30PM-6PM |  [RSVP](https://www.eventbrite.com/e/afrotech-entrepreneur-networking-happy-hour-x-hosted-by-thumbtack-tickets-50671394505)
-[Abstract + Bay Area Black Designers Pre-AfroTech Happy Hour](https://www.eventbrite.com/e/abstract-bay-area-black-designers-pre-afrotech-happy-hour-tickets-50500346897) | [Abstract](https://boards.greenhouse.io/abstract) + [Bay Area Black Designers](http://www.bayareablackdesigners.com/)| Abstract's New Office <br> 255 Golden Gate Avenue | 5:30PM-8PM | This event is open to all of our tech friends across all disciplines! <br> [RSVP](https://www.eventbrite.com/e/abstract-bay-area-black-designers-pre-afrotech-happy-hour-tickets-50500346897)
+[Abstract + Bay Area Black Designers Pre-AfroTech Happy Hour](https://www.eventbrite.com/e/abstract-bay-area-black-designers-pre-afrotech-happy-hour-tickets-50500346897) | [Abstract](https://boards.greenhouse.io/abstract) and [Bay Area Black Designers](http://www.bayareablackdesigners.com/)| Abstract's New Office <br> 255 Golden Gate Avenue | 5:30PM-8PM | This event is open to all of our tech friends across all disciplines! <br> [RSVP](https://www.eventbrite.com/e/abstract-bay-area-black-designers-pre-afrotech-happy-hour-tickets-50500346897)
 ### Thursday, November 08
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  You must RSVP to this event by 11/5/18 at 11:59pm in order to attend. <br> [RSVP](https://squareafrotech.splashthat.com/)
 [New Relic AfroTech Dinner](https://www.eventbrite.com/e/new-relic-afrotech-dinner-tickets-50291299631) | [New Relic](https://newrelic.com/about/careers)| The Dorian <br> 2001 Chestnut Street | 6PM-9PM | [RSVP](https://www.eventbrite.com/e/new-relic-afrotech-dinner-tickets-50291299631)
+[Pinterest Palooza](https://pinterestpalooza.splashthat.com/) | [Pinterest](https://careers.pinterest.com/careers)| 580 7th Street | 6PM-9PM | [RSVP](https://pinterestpalooza.splashthat.com/)
 [Nextplay Jams](https://nextplayanniversary.splashthat.com/) | [Nextplay](https://nextplayevents.com/)| Esports Arena Oakland <br> 255 2nd St Oakland, CA | 6PM-10PM | [RSVP](https://nextplayanniversary.splashthat.com/)
 ### Friday, November 09
 Event	                 | Host(s)       | Location     | Time	   | Notes        
