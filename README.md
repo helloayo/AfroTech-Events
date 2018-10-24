@@ -25,19 +25,23 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 ### Thursday, November 08
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Curls & Cocktails Happy Hour](https://curlscocktails.splashthat.com/) | [Try My Fab](https://trymyfab.com/)| WeWork  <br> 600 California Street | 4:30PM-6PM |  [RSVP](https://curlscocktails.splashthat.com/)
 [Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  You must [RSVP](https://squareafrotech.splashthat.com/) to this event by 11/5/18 at 11:59pm in order to attend.
+[Oath Meet, Greet & Demos]() | [Oath](https://www.oath.com/careers/work-at-oath/) | Oath Office <br> Sunnyvale | 5PM-7PM |  
 [Dropbox AfroTech 2018 Mixer](https://afrotechmixer.splashthat.com) | [Dropbox](https://www.dropbox.com/jobs)| Little R, the Dropbox Café <br> Dropbox HQ  <br> 333 Brannan Street | 6PM-8PM | [RSVP](https://afrotechmixer.splashthat.com)
 [New Relic AfroTech Dinner](https://www.eventbrite.com/e/new-relic-afrotech-dinner-tickets-50291299631) | [New Relic](https://newrelic.com/about/careers)| The Dorian <br> 2001 Chestnut Street | 6PM-9PM | [RSVP](https://www.eventbrite.com/e/new-relic-afrotech-dinner-tickets-50291299631)
 [Pinterest Palooza](https://pinterestpalooza.splashthat.com/) | [Pinterest](https://careers.pinterest.com/careers)| 580 7th Street | 6PM-9PM | [RSVP](https://pinterestpalooza.splashthat.com/)
-[Nextplay Jams](https://nextplayanniversary.splashthat.com/) | [Nextplay](https://nextplayevents.com/)| Esports Arena Oakland <br> 255 2nd St Oakland, CA | 6PM-10PM | [RSVP](https://nextplayanniversary.splashthat.com/)
-### Friday, November 09
+[Nextplay Jams](https://nextplayanniversary.splashthat.com/) | [Nextplay Events](https://nextplayevents.com/)| Esports Arena Oakland <br> 255 2nd St Oakland, CA | 6PM-10PM | [RSVP](https://nextplayanniversary.splashthat.com/)
+[Stripe Open House](https://stripe.events/afrotech) | [Stripe](https://stripe.com/jobs)| Stripe HQ <br> 510 Townsend Street | 6:30PM-9PM |  [RSVP](https://stripe.events/afrotech)
+
+### Thursday, November 09
 Event	                 | Host(s)       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [AfroTech Celebration with CZI](https://www.eventbrite.com/e/afrotech-celebration-with-czi-tickets-51487128387) | [Chan Zuckerberg Initiative](https://www.chanzuckerberg.com/careers)| The American Bookbinders Museum <br> 355 Clementina Street | 5:30PM-8PM | [RSVP](https://www.eventbrite.com/e/afrotech-celebration-with-czi-tickets-51487128387)
 [Lightening talks with Uber Engineers Donald Sumbry and Rick Boone](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform) | [Uber](https://www.uber.com/careers/) | Uber HQ <br> 1455 Market St  | 6PM-9PM | Contact calvin.simmons @uber.com for more information <br> [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform)
 [Amazon Reverse Happy Hour](https://amznafrotechhappyhour.splashthat.com/) | [Amazon](https://www.amazon.jobs/)| Location given if selected to attend | 6PM-10PM | Please note: Registration does not confirm attendance. They will notify you if you are selected to attend. Additional details to follow via confirmation.  <br> [Register](https://amznafrotechhappyhour.splashthat.com/)
 [The Afropolitan #AfroTech](https://afropolitantech.eventbrite.com/?aff=HelloAyo) | [Afropolitan Group](https://www.eventbrite.com/o/afropolitan-group-11105099328)| The Holy Cow Nightclub <br> 1535 Folsom Street | 10PM-2AM | 0-$20, First 50 tickets complementary <br> [Get Tickets](https://afropolitantech.eventbrite.com/?aff=HelloAyo)
-
+[Afrochella '18 presented by TicketDM, Win For The Culture NextPlay Events](https://www.eventbrite.com/e/afrochella-18-presented-by-ticketdm-win-for-the-culture-nextplay-events-tickets-51693456520) | [Nextplay Events](https://nextplayevents.com/) | Rusted Mule <br> 1217 Sutter Street | 10PM-2AM | 0-$600, First 100 tickets complementary <br> Promo Code: NAPTURALISTA <br> [Get Tickets](https://www.eventbrite.com/e/afrochella-18-presented-by-ticketdm-win-for-the-culture-nextplay-events-tickets-51693456520)
 ### Saturday, November 10
 Event	                 | Host(s)       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -47,7 +51,7 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 ### Sunday, November 11
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[WeWork rooftop brunch party with food, music and a story slam](https://weworktogetherafrotech.splashthat.com/) | [WeWork](https://www.amazon.jobs/)| WeWork 600 California Street <br> 600 California Street| 12PM | [RSVP and Learn More](https://weworktogetherafrotech.splashthat.com/)
+[WeWork rooftop brunch party with food, music and a story slam](https://weworktogetherafrotech.splashthat.com/) | [WeWork](https://www.amazon.jobs/)| WeWork  <br> 600 California Street | 12PM | [RSVP and Learn More](https://weworktogetherafrotech.splashthat.com/)
 [Amazon Brunch & Day Party](https://amazonafrotechbrunch.splashthat.com/) | [Amazon](https://www.amazon.jobs/)| Location given if selected to attend | 12PM-4PM | Please note: Registration does not confirm attendance. They will notify you if you are selected to attend. Additional details to follow via confirmation. <br> [Register](https://amazonafrotechbrunch.splashthat.com/)
 
 ## Expo Related Offerings
