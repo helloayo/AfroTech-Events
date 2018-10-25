@@ -34,7 +34,7 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 [Nextplay Jams](https://nextplayanniversary.splashthat.com/) | [Nextplay Events](https://nextplayevents.com/)| Esports Arena Oakland <br> 255 2nd St Oakland, CA | 6PM-10PM | [RSVP](https://nextplayanniversary.splashthat.com/)
 [Stripe Open House](https://stripe.events/afrotech) | [Stripe](https://stripe.com/jobs)| Stripe HQ <br> 510 Townsend Street | 6:30PM-9PM |  [RSVP](https://stripe.events/afrotech)
 
-### Thursday, November 09
+### Friday, November 09
 Event	                 | Host(s)       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
 [AfroTech Celebration with CZI](https://www.eventbrite.com/e/afrotech-celebration-with-czi-tickets-51487128387) | [Chan Zuckerberg Initiative](https://www.chanzuckerberg.com/careers)| The American Bookbinders Museum <br> 355 Clementina Street | 5:30PM-8PM | [RSVP](https://www.eventbrite.com/e/afrotech-celebration-with-czi-tickets-51487128387)
