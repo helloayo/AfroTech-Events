@@ -25,7 +25,7 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 ### Thursday, November 08
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Curls & Cocktails Happy Hour](https://curlscocktails.splashthat.com/) | [Try My Fab](https://trymyfab.com/)| WeWork  <br> 600 California Street | 4:30PM-6PM |  [RSVP](https://curlscocktails.splashthat.com/)
+[Curls & Cocktails Happy Hour](https://curlscocktails.splashthat.com/) | [Trymyfab](https://trymyfab.com/)| WeWork  <br> 600 California Street | 4:30PM-6PM |  [RSVP](https://curlscocktails.splashthat.com/)
 [Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  You must [RSVP](https://squareafrotech.splashthat.com/) to this event by 11/5/18 at 11:59pm in order to attend.
 [Oath Meet, Greet & Demos]() | [Oath](https://www.oath.com/careers/work-at-oath/) | Oath Office <br> Sunnyvale | 5PM-7PM |  
 [Dropbox AfroTech 2018 Mixer](https://afrotechmixer.splashthat.com) | [Dropbox](https://www.dropbox.com/jobs)| Little R, the Dropbox Café <br> Dropbox HQ  <br> 333 Brannan Street | 6PM-8PM | [RSVP](https://afrotechmixer.splashthat.com)
