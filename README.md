@@ -45,6 +45,7 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 ### Saturday, November 10
 Event	                 | Host(s)       | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Brunch in the Valley](https://www.eventbrite.com/e/brunch-in-the-valley-tickets-51795589001?aff=helloayo)| [It's Blasé](https://www.instagram.com/its_blase/)| The Pink Elephant Alibi SF <br> 142 Minna Street | 10AM – 3PM |  [RSVP](https://www.eventbrite.com/e/brunch-in-the-valley-tickets-51795589001?aff=helloayo)
 [Consensys X Afrotech Present: The Immutables](https://calendar.consensys.net/event/theimmutables#.W7zqLhPYp-X)| [Consensys](https://new.consensys.net/careers/)| Consensys SF <br> 115 Sansome St | 11AM-4PM |  [RSVP](https://calendar.consensys.net/event/theimmutables#.W7zqxxPYp-X)
 [Party Lyft: An Afrotech Celebration](https://partylyft.splashthat.com/)| [Lyft](https://www.lyft.com/careers)| The event will take place in San Francisco. The exact location will be sent to registered attendees during the week of the event. | 6:30PM-9:30PM |  [Request an Invitation](https://partylyft.splashthat.com/)
 [AfroTech Meet Up: Capital One Center for Machine Learning](https://www.eventbrite.com/e/afrotech-meet-up-capital-one-center-for-machine-learning-tickets-51096853063)| [Capital One](https://www.capitalonecareers.com/)| Capital One <br> 201 3rd St  | 11:30AM-1PM |  [RSVP](https://www.eventbrite.com/e/afrotech-meet-up-capital-one-center-for-machine-learning-tickets-51096853063)
