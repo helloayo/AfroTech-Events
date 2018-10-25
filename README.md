@@ -51,7 +51,8 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 ### Sunday, November 11
 Event	                 | Host(s)      | Location     | Time	   | Notes        
 :---------------------:| ------------- | ------------ | -------- | ------------
-[WeWork rooftop brunch party with food, music and a story slam](https://weworktogetherafrotech.splashthat.com/) | [WeWork](https://www.amazon.jobs/)| WeWork  <br> 600 California Street | 12PM | [RSVP and Learn More](https://weworktogetherafrotech.splashthat.com/)
+[2nd Annual Black Tech Women Brunch](https://www.eventbrite.com/e/2nd-annual-black-tech-women-brunch-tickets-51665434706?aff=ayosuber) | [Black Tech Women](http://blacktechwomen.strikingly.com/)| Kaya  <br> 1420 Market Street | 12PM | PW: btwbrunch <br> [RSVP](https://www.eventbrite.com/e/2nd-annual-black-tech-women-brunch-tickets-51665434706?aff=ayosuber)
+[WeWork rooftop brunch party with food, music and a story slam](https://weworktogetherafrotech.splashthat.com/) | [WeWork](https://careers.wework.com/)| WeWork  <br> 600 California Street | 12PM | [RSVP and Learn More](https://weworktogetherafrotech.splashthat.com/)
 [Amazon Brunch & Day Party](https://amazonafrotechbrunch.splashthat.com/) | [Amazon](https://www.amazon.jobs/)| Location given if selected to attend | 12PM-4PM | Please note: Registration does not confirm attendance. They will notify you if you are selected to attend. Additional details to follow via confirmation. <br> [Register](https://amazonafrotechbrunch.splashthat.com/)
 
 ## Expo Related Offerings
