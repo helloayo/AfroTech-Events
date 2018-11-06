@@ -16,7 +16,7 @@ All events are free and located in San Francisco, CA unless otherwise noted. Ple
 ### Official AfroTech Events
 Event	                 | Date      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-
+[Blavity x Brunch 2 Bomb: House Party 2 Afrotech Edition (Pajama Jam)](https://www.eventbrite.com/e/blavity-x-brunch-2-bomb-house-party-2-afrotech-edition-pajama-jam-tickets-50989588231)| Friday, November 9 | San Francisco Marriott Marquis Hotel  | 9PM-1AM | [RSVP](https://www.eventbrite.com/e/blavity-x-brunch-2-bomb-house-party-2-afrotech-edition-pajama-jam-tickets-50989588231)
 ### Wednesday, November 07
 Event	                 | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
