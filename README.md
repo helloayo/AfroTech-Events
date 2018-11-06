@@ -34,8 +34,8 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 [Pinterest Palooza](https://pinterestpalooza.splashthat.com/) | [Pinterest](https://careers.pinterest.com/careers)| 580 7th Street | 6PM-9PM | [RSVP](https://pinterestpalooza.splashthat.com/)
 [Nextplay Jams](https://nextplayanniversary.splashthat.com/) | [Nextplay Events](https://nextplayevents.com/)| Esports Arena Oakland <br> 255 2nd St Oakland, CA | 6PM-10PM | [RSVP](https://nextplayanniversary.splashthat.com/)
 [Stripe Open House](https://stripe.events/afrotech) | [Stripe](https://stripe.com/jobs)| Stripe HQ <br> 510 Townsend Street | 6:30PM-9PM |  [RSVP](https://stripe.events/afrotech)
-[Juke Jam: A Midwest Kickback](x.co/jukejam) | Ashten Fizer | Hello Stranger Bar <br> 1724 Broadway | 8PM |  [RSVP](x.co/jukejam)
-
+[Juke Jam: A Midwest Kickback](x.co/jukejam) | [Ashten Fizer] | Hello Stranger Bar <br> 1724 Broadway | 8PM |  [RSVP](x.co/jukejam)
+[A Panel Discussion on the Convergence of Tech and Activism](https://www.eventbrite.com/e/a-panel-discussion-on-the-convergence-of-tech-and-activism-tickets-50496559569) | [Patagonia](https://www.patagonia.com/careers/) | Patagonia <br> 770 North Point Street | 7PM – 9PM |  [RSVP](https://www.eventbrite.com/e/a-panel-discussion-on-the-convergence-of-tech-and-activism-tickets-50496559569)
 ### Friday, November 09
 Event	                 | Host(s)       | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -64,19 +64,11 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 
 ## Expo Related Offerings
 
-### Thursday, November 08
-Company	                 | Offerings
-:---------------------:| -------------
-
 ### Friday, November 09
 Company	                 | Offerings
 :---------------------:| -------------
 
 ### Saturday, November 10
-Company	                 | Offerings
-:---------------------:| -------------
-
-### Sunday, November 11
 Company	                 | Offerings
 :---------------------:| -------------
 
