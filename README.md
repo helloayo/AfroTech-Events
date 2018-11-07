@@ -1,4 +1,7 @@
 # Afrotech-Events
+
+```#### Come see me at the Square booth on Friday between 12PM-2PM!```
+
 Events, receptions, and parties hosted by companies and groups during [AfroTech](https://afrotech.com/events/afrotech-2018).
 
 Check back often as this list is updated regularly! Or just watch the repo to get alerted.
@@ -12,8 +15,6 @@ November 8-11, 2018
 Locations: <br> **Entreprenuership and Leadership track** at The Palace of Fine Arts, 3301 Lyon St, San Francisco, CA 94123 <br> **Engineering and Design** at Bespoke in Westfield San Francisco Centre
 
 All events are free and located in San Francisco, CA unless otherwise noted. Please double check the times!
-
-```Come see me at the Square booth on Friday between 12PM-2PM!```
 
 ### Official AfroTech Events
 Event	                 | Date      | Location     | Time	   | Notes
