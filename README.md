@@ -13,6 +13,8 @@ Locations: <br> **Entreprenuership and Leadership track** at The Palace of Fine 
 
 All events are free and located in San Francisco, CA unless otherwise noted. Please double check the times!
 
+```Come see me at the Square booth on Friday between 12PM-2PM!```
+
 ### Official AfroTech Events
 Event	                 | Date      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
