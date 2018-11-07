@@ -31,6 +31,7 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 ### Thursday, November 08
 Event	                 | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Twitch Mixer](https://twitchmixer.splashthat.com/) | [Twitch](https://www.twitch.tv/p/jobs/)| Twitch HQ <br> 350 Bush Street | 4PM-6PM |  [RSVP](https://twitchmixer.splashthat.com/)
 [Curls & Cocktails Happy Hour](https://curlscocktails.splashthat.com/) | [Trymyfab](https://trymyfab.com/)| WeWork  <br> 600 California Street | 4:30PM-6PM |  [RSVP](https://curlscocktails.splashthat.com/)
 [Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  You must [RSVP](https://squareafrotech.splashthat.com/) to this event by 11/5/18 at 11:59pm in order to attend.
 [Oath Meet, Greet & Demos](https://yahooaolmixerhappyhour.splashthat.com/) | [Oath (formerly Yahoo, AOL, ...)](https://www.oath.com/careers/work-at-oath/) | Oath SF Office (Yahoo HQ) <br> 901 Mission Street San Francisco, CA| 5PM-7PM | [RSVP](https://yahooaolmixerhappyhour.splashthat.com/)
