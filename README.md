@@ -68,9 +68,9 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 ## Expo Related Offerings
 
 ### Friday, November 09
-Company	                 | Offerings
-:---------------------:| -------------
-[Square](https://squareup.com/careers) | Recruiting <br> Come say 👋🏾 to [me](https://www.instagram.com/helloayo/) at the Square booth from 12-2! 
+Company	                 | Booth | Offerings
+:---------------------:| ------------- | -------------
+[Square](https://squareup.com/careers) | B24 |  Recruiting <br> Come say 👋🏾 to [me](https://www.instagram.com/helloayo/) at the Square booth from 12-2! 
 ### Saturday, November 10
 Company	                 | Offerings
 :---------------------:| -------------
