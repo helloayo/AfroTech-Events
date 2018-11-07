@@ -70,7 +70,7 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 ### Friday, November 09
 Company	                 | Offerings
 :---------------------:| -------------
-
+[Square](https://squareup.com/careers) | Recruiting <br> Come say 👋🏾 to me at the Square booth from 12-2! 
 ### Saturday, November 10
 Company	                 | Offerings
 :---------------------:| -------------
