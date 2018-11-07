@@ -1,6 +1,6 @@
 # Afrotech-Events
 
-```#### Come see me at the Square booth on Friday between 12PM-2PM!```
+👋🏾 ```Come see me at the Square booth on Friday between 12PM-2PM!```
 
 Events, receptions, and parties hosted by companies and groups during [AfroTech](https://afrotech.com/events/afrotech-2018).
 
