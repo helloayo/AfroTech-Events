@@ -74,7 +74,7 @@ Company	                 | Booth | Offerings
 ### Saturday, November 10
 Company	                 | Booth | Offerings
 :---------------------:| ------------- | -------------
-[Square](https://squareup.com/careers) | B24 |  Recruiting <br> Come say 👋🏾 to [me](https://www.instagram.com/helloayo/) at the Square booth from 12-2! 
+[Square](https://squareup.com/careers) | B24 |  Recruiting
 ## Travel Grants and Scholarships
 Opportunity              | Deadline      | Notes
 :---------------------:| ------------- | ------------
