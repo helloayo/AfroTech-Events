@@ -20,12 +20,14 @@ All events are free and located in San Francisco, CA unless otherwise noted. Ple
 Event	                 | Date      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Blavity x Brunch 2 Bomb: House Party 2 Afrotech Edition (Pajama Jam)](https://www.eventbrite.com/e/blavity-x-brunch-2-bomb-house-party-2-afrotech-edition-pajama-jam-tickets-50989588231)| Friday, November 9 | San Francisco Marriott Marquis Hotel  | 9PM-1AM | [RSVP](https://www.eventbrite.com/e/blavity-x-brunch-2-bomb-house-party-2-afrotech-edition-pajama-jam-tickets-50989588231)
+
 ### Wednesday, November 07
 Event	                 | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Afrotech: Entrepreneur Networking Happy Hour Hosted by Thumbtack](https://www.eventbrite.com/e/afrotech-entrepreneur-networking-happy-hour-x-hosted-by-thumbtack-tickets-50671394505) | [Thumbtack](https://www.thumbtack.com/careers/) | Thumbtack HQ <br> 1355 Market St, 6th floor | 5:30PM-6PM |  [RSVP](https://www.eventbrite.com/e/afrotech-entrepreneur-networking-happy-hour-x-hosted-by-thumbtack-tickets-50671394505)
 [Abstract + Bay Area Black Designers Pre-AfroTech Happy Hour](https://www.eventbrite.com/e/abstract-bay-area-black-designers-pre-afrotech-happy-hour-tickets-50500346897) | [Abstract](https://boards.greenhouse.io/abstract) and [Bay Area Black Designers](http://www.bayareablackdesigners.com/)| Abstract's New Office <br> 255 Golden Gate Avenue | 5:30PM-8PM | This event is open to all of our tech friends across all disciplines! <br> [RSVP](https://www.eventbrite.com/e/abstract-bay-area-black-designers-pre-afrotech-happy-hour-tickets-50500346897)
 [#FOUNDERMEETUP @ AfroTech by ImBlackInTech and Black & Brown Founders](https://www.eventbrite.com/e/foundermeetup-afrotech-by-imblackintech-and-black-brown-founders-tickets-51832968805) | [ImBlackInTech](http://imblackintech.com/) and [Black & Brown Founders](https://blackandbrownfounders.com/) | LEVER <br> 155 5th St | 6PM-7:30PM |  [RSVP](https://www.eventbrite.com/e/foundermeetup-afrotech-by-imblackintech-and-black-brown-founders-tickets-51832968805)
+
 ### Thursday, November 08
 Event	                 | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -33,12 +35,14 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 [Black Square Association x /dev/color Happy Hour](https://squareafrotech.splashthat.com/) | [BSA](https://squareup.com/careers) and [/dev/color](https://www.devcolor.org/)| Square HQ <br> 1455 Market St, Suite 600 | 5PM-7PM |  You must [RSVP](https://squareafrotech.splashthat.com/) to this event by 11/5/18 at 11:59pm in order to attend.
 [Oath Meet, Greet & Demos](https://yahooaolmixerhappyhour.splashthat.com/) | [Oath (formerly Yahoo, AOL, ...)](https://www.oath.com/careers/work-at-oath/) | Oath SF Office (Yahoo HQ) <br> 901 Mission Street San Francisco, CA| 5PM-7PM | [RSVP](https://yahooaolmixerhappyhour.splashthat.com/)
 [Dropbox AfroTech 2018 Mixer](https://afrotechmixer.splashthat.com) | [Dropbox](https://www.dropbox.com/jobs)| Little R, the Dropbox Café <br> Dropbox HQ  <br> 333 Brannan Street | 6PM-8PM | [RSVP](https://afrotechmixer.splashthat.com)
+[Not So FAQ AfroTech Happy Hour](https://notsofaqafrotechhappyhour.splashthat.com/?helloayo) | [R/GA](https://www.rga.com/careers)|R/GA <br> 35 South Park Street | 6PM-8:30PM |  [RSVP](https://notsofaqafrotechhappyhour.splashthat.com/?helloayo)
 [New Relic AfroTech Dinner](https://www.eventbrite.com/e/new-relic-afrotech-dinner-tickets-50291299631) | [New Relic](https://newrelic.com/about/careers)| The Dorian <br> 2001 Chestnut Street | 6PM-9PM | [RSVP](https://www.eventbrite.com/e/new-relic-afrotech-dinner-tickets-50291299631)
 [Pinterest Palooza](https://pinterestpalooza.splashthat.com/) | [Pinterest](https://careers.pinterest.com/careers)| 580 7th Street | 6PM-9PM | [RSVP](https://pinterestpalooza.splashthat.com/)
 [Nextplay Jams](https://nextplayanniversary.splashthat.com/) | [Nextplay Events](https://nextplayevents.com/)| Esports Arena Oakland <br> 255 2nd St Oakland, CA | 6PM-10PM | [RSVP](https://nextplayanniversary.splashthat.com/)
 [Stripe Open House](https://stripe.events/afrotech) | [Stripe](https://stripe.com/jobs)| Stripe HQ <br> 510 Townsend Street | 6:30PM-9PM |  [RSVP](https://stripe.events/afrotech)
 [Juke Jam: A Midwest Kickback](x.co/jukejam) | Ashten Fizer | Hello Stranger Bar <br> 1724 Broadway | 8PM |  [RSVP](x.co/jukejam)
 [A Panel Discussion on the Convergence of Tech and Activism](https://www.eventbrite.com/e/a-panel-discussion-on-the-convergence-of-tech-and-activism-tickets-50496559569) | [Patagonia](https://www.patagonia.com/careers/) | Patagonia <br> 770 North Point Street | 7PM – 9PM |  [RSVP](https://www.eventbrite.com/e/a-panel-discussion-on-the-convergence-of-tech-and-activism-tickets-50496559569)
+
 ### Friday, November 09
 Event	                 | Host(s)       | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -50,6 +54,7 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 [Amazon Reverse Happy Hour](https://amznafrotechhappyhour.splashthat.com/) | [Amazon](https://www.amazon.jobs/)| Location given if selected to attend | 6PM-10PM | Please note: Registration does not confirm attendance. They will notify you if you are selected to attend. Additional details to follow via confirmation.  <br> [Register](https://amznafrotechhappyhour.splashthat.com/)
 [The Afropolitan #AfroTech](https://afropolitantech.eventbrite.com/?aff=HelloAyo) | [Afropolitan Group](https://www.eventbrite.com/o/afropolitan-group-11105099328)| The Holy Cow Nightclub <br> 1535 Folsom Street | 10PM-2AM | 0-$20, First 50 tickets complementary <br> [Get Tickets](https://afropolitantech.eventbrite.com/?aff=HelloAyo)
 [Afrochella '18 presented by TicketDM, Win For The Culture NextPlay Events](https://www.eventbrite.com/e/afrochella-18-presented-by-ticketdm-win-for-the-culture-nextplay-events-tickets-51693456520) | [Nextplay Events](https://nextplayevents.com/) | Rusted Mule <br> 1217 Sutter Street | 10PM-2AM | 0-$600, First 100 tickets complementary <br> Promo Code: NAPTURALISTA <br> [Get Tickets](https://www.eventbrite.com/e/afrochella-18-presented-by-ticketdm-win-for-the-culture-nextplay-events-tickets-51693456520)
+
 ### Saturday, November 10
 Event	                 | Host(s)       | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -58,6 +63,7 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 [Consensys X Afrotech Present: The Immutables](https://calendar.consensys.net/event/theimmutables#.W7zqLhPYp-X)| [Consensys](https://new.consensys.net/careers/)| Consensys SF <br> 115 Sansome St | 11AM-4PM |  [RSVP](https://calendar.consensys.net/event/theimmutables#.W7zqxxPYp-X)
 [Party Lyft: An Afrotech Celebration](https://partylyft.splashthat.com/)| [Lyft](https://www.lyft.com/careers)| The event will take place in San Francisco. The exact location will be sent to registered attendees during the week of the event. | 6:30PM-9:30PM |  [Request an Invitation](https://partylyft.splashthat.com/)
 [AfroTech Meet Up: Capital One Center for Machine Learning](https://www.eventbrite.com/e/afrotech-meet-up-capital-one-center-for-machine-learning-tickets-51096853063)| [Capital One](https://www.capitalonecareers.com/)| Capital One <br> 201 3rd St  | 11:30AM-1PM |  [RSVP](https://www.eventbrite.com/e/afrotech-meet-up-capital-one-center-for-machine-learning-tickets-51096853063)
+
 ### Sunday, November 11
 Event	                 | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -71,10 +77,13 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 Company	                 | Booth | Offerings
 :---------------------:| ------------- | -------------
 [Square](https://squareup.com/careers) | B24 |  Recruiting <br> Come say 👋🏾 to [me](https://www.instagram.com/helloayo/) at the Square booth from 12-2! 
+[GoDaddy](https://careers.godaddy.com/) |  |  Stop by booth for chance to win 2 tix to the Fade Afterparty
 ### Saturday, November 10
 Company	                 | Booth | Offerings
 :---------------------:| ------------- | -------------
 [Square](https://squareup.com/careers) | B24 |  Recruiting
+[GoDaddy](https://careers.godaddy.com/) |  |  Stop by booth for chance to win 2 tix to the Fade Afterparty
+
 ## Travel Grants and Scholarships
 Opportunity              | Deadline      | Notes
 :---------------------:| ------------- | ------------
