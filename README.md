@@ -1,6 +1,6 @@
 # Afrotech-Events
 
-👋🏾 ```Come see me at the Square booth on Friday between 12PM-2PM!```
+👋🏾 ```Come see me at the Square booth, B24, on Friday between 12PM-2PM!```
 
 Events, receptions, and parties hosted by companies and groups during [AfroTech](https://afrotech.com/events/afrotech-2018).
 
@@ -20,7 +20,8 @@ All events are free and located in San Francisco, CA unless otherwise noted. Ple
 Event	                 | Date      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Blavity x Brunch 2 Bomb: House Party 2 Afrotech Edition (Pajama Jam)](https://www.eventbrite.com/e/blavity-x-brunch-2-bomb-house-party-2-afrotech-edition-pajama-jam-tickets-50989588231)| Friday, November 9 | San Francisco Marriott Marquis Hotel  | 9PM-1AM | [RSVP](https://www.eventbrite.com/e/blavity-x-brunch-2-bomb-house-party-2-afrotech-edition-pajama-jam-tickets-50989588231)
-
+[AfroTech x Google | Tech and Policy Brunch](https://www.eventbrite.com/e/afrotech-x-google-tech-and-policy-brunch-tickets-52192341699)| Saturday, November 10 | TBD  | 11AM-12:30PM | [RSVP](https://www.eventbrite.com/e/afrotech-x-google-tech-and-policy-brunch-tickets-52192341699)
+[Blavity X RNBHouseParty: Rhythm & Bites Official AFROTECH Brunch Party](https://www.eventbrite.com/e/blavity-x-rnbhouseparty-rhythm-bites-official-afrotech-brunch-party-tickets-51980677606)| Sunday, November 11 | Chambers eat + Drink <br> 601 Eddy Street  | 11AM-5PM | [RSVP](https://www.eventbrite.com/e/blavity-x-rnbhouseparty-rhythm-bites-official-afrotech-brunch-party-tickets-51980677606)
 ### Wednesday, November 07
 Event	                 | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
@@ -52,6 +53,7 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 [AfroTech Celebration with CZI](https://www.eventbrite.com/e/afrotech-celebration-with-czi-tickets-51487128387) | [Chan Zuckerberg Initiative](https://www.chanzuckerberg.com/careers)| The American Bookbinders Museum <br> 355 Clementina Street | 5:30PM-8PM | [RSVP](https://www.eventbrite.com/e/afrotech-celebration-with-czi-tickets-51487128387)
 [Lightening talks with Uber Engineers Donald Sumbry and Rick Boone](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform) | [Uber](https://www.uber.com/careers/) | Uber HQ <br> 1455 Market St  | 6PM-9PM | Contact calvin.simmons @uber.com for more information <br> [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform)
 [Cocktails and Conversation With The HBCUC](https://www.facebook.com/events/341109196638004/) | [Northern California HBCU Alumni Associations Coalition](https://northerncaliforniahbcuc.org/) | Liege Spirits <br> 481 9th St, Oakland| 6PM-9PM |[RSVP](https://www.facebook.com/events/341109196638004/)
+[Community Connection: Facebook x Nextplay Kick-back](https://facebookxnextplay.splashthat.com) | [Facebook](https://www.facebook.com/careers/) & [[Nextplay Events](https://nextplayevents.com/) | The Pearl <br> 601 19th St | 6:30PM-9:30PM |[RSVP](https://facebookxnextplay.splashthat.com)
 [Amazon Reverse Happy Hour](https://amznafrotechhappyhour.splashthat.com/) | [Amazon](https://www.amazon.jobs/)| Location given if selected to attend | 6PM-10PM | Please note: Registration does not confirm attendance. They will notify you if you are selected to attend. Additional details to follow via confirmation.  <br> [Register](https://amznafrotechhappyhour.splashthat.com/)
 [The Afropolitan #AfroTech](https://afropolitantech.eventbrite.com/?aff=HelloAyo) | [Afropolitan Group](https://www.eventbrite.com/o/afropolitan-group-11105099328)| The Holy Cow Nightclub <br> 1535 Folsom Street | 10PM-2AM | 0-$20, First 50 tickets complementary <br> [Get Tickets](https://afropolitantech.eventbrite.com/?aff=HelloAyo)
 [Afrochella '18 presented by TicketDM, Win For The Culture NextPlay Events](https://www.eventbrite.com/e/afrochella-18-presented-by-ticketdm-win-for-the-culture-nextplay-events-tickets-51693456520) | [Nextplay Events](https://nextplayevents.com/) | Rusted Mule <br> 1217 Sutter Street | 10PM-2AM | 0-$600, First 100 tickets complementary <br> Promo Code: NAPTURALISTA <br> [Get Tickets](https://www.eventbrite.com/e/afrochella-18-presented-by-ticketdm-win-for-the-culture-nextplay-events-tickets-51693456520)
