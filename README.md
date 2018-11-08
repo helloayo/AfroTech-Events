@@ -14,6 +14,8 @@ November 8-11, 2018
 
 Locations: <br> **Entreprenuership and Leadership track** at The Palace of Fine Arts, 3301 Lyon St, San Francisco, CA 94123 <br> **Engineering and Design** at Bespoke in Westfield San Francisco Centre
 
+🚖 ```Use Lyft promo code "Afrotech18" for $5 off each way to conference during conference hours```
+
 All events are free and located in San Francisco, CA unless otherwise noted. Please double check the times!
 
 ### Official AfroTech Events
@@ -55,6 +57,7 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 [Cocktails and Conversation With The HBCUC](https://www.facebook.com/events/341109196638004/) | [Northern California HBCU Alumni Associations Coalition](https://northerncaliforniahbcuc.org/) | Liege Spirits <br> 481 9th St, Oakland| 6PM-9PM |[RSVP](https://www.facebook.com/events/341109196638004/)
 [Community Connection: Facebook x Nextplay Kick-back](https://facebookxnextplay.splashthat.com) | [Facebook](https://www.facebook.com/careers/) & [[Nextplay Events](https://nextplayevents.com/) | The Pearl <br> 601 19th St | 6:30PM-9:30PM |[RSVP](https://facebookxnextplay.splashthat.com)
 [Amazon Reverse Happy Hour](https://amznafrotechhappyhour.splashthat.com/) | [Amazon](https://www.amazon.jobs/)| Location given if selected to attend | 6PM-10PM | Please note: Registration does not confirm attendance. They will notify you if you are selected to attend. Additional details to follow via confirmation.  <br> [Register](https://amznafrotechhappyhour.splashthat.com/)
+[Karaoke in the HENNESSY ROOM at Pandora](https://www.eventbrite.com/e/karaoke-in-the-hennessy-room-at-pandora-tickets-52339034461) | [BridgE (Black resource and identity group at Etsy)](https://www.etsy.com/careers)| Pandora Karaoke & Bar <br> 177 Eddy Street | 8:30PM-11:30PM | [RSVP](https://www.eventbrite.com/e/karaoke-in-the-hennessy-room-at-pandora-tickets-52339034461)
 [The Afropolitan #AfroTech](https://afropolitantech.eventbrite.com/?aff=HelloAyo) | [Afropolitan Group](https://www.eventbrite.com/o/afropolitan-group-11105099328)| The Holy Cow Nightclub <br> 1535 Folsom Street | 10PM-2AM | 0-$20, First 50 tickets complementary <br> [Get Tickets](https://afropolitantech.eventbrite.com/?aff=HelloAyo)
 [Afrochella '18 presented by TicketDM, Win For The Culture NextPlay Events](https://www.eventbrite.com/e/afrochella-18-presented-by-ticketdm-win-for-the-culture-nextplay-events-tickets-51693456520) | [Nextplay Events](https://nextplayevents.com/) | Rusted Mule <br> 1217 Sutter Street | 10PM-2AM | 0-$600, First 100 tickets complementary <br> Promo Code: NAPTURALISTA <br> [Get Tickets](https://www.eventbrite.com/e/afrochella-18-presented-by-ticketdm-win-for-the-culture-nextplay-events-tickets-51693456520)
 
