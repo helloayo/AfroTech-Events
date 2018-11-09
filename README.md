@@ -51,6 +51,7 @@ Event	                 | Host(s)      | Location     | Time	   | Notes
 Event	                 | Host(s)       | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Millionaire's Bacon Breakfast at Sweet Maple!!](https://www.eventbrite.com/e/millionaires-bacon-breakfast-at-sweet-maple-tickets-52165383065)| [Etsy and BridgE (Black resource and identity group at Etsy)](https://www.etsy.com/careers)| Sweet Maple Restaurant <br> 2101 Sutter Street | 8AM – 10AM |  [RSVP](https://www.eventbrite.com/e/millionaires-bacon-breakfast-at-sweet-maple-tickets-52165383065)
+InterApp Pre-Party Hapy Hour | [InterApp](https://www.interapp.net/en/about/working-at-interapp) | Hotel Zeppelin <br> 545 Post St | 4PM-6PM |  Search InterApp on Afrotech app for more info
 [Salesforce (Heroku & Quip) AfroTech Hiring Happy Hour](http://bit.ly/HerokuXQuip) | [Heroku](https://salesforce.quip.com/about/jobs), [Quip](https://www.heroku.com/careers/) & [#BlackTechUnion](http://www.blacktechunion.com/) | Salesforce East <br> 350 Mission Street | 5PM - 8PM | $0, VIP Codes, Restricted to AfroTech Attendees <br> Promo Code: BTUGitBusy <br> [Request Invite](http://bit.ly/HerokuXQuip)
 [AfroTech Celebration with CZI](https://www.eventbrite.com/e/afrotech-celebration-with-czi-tickets-51487128387) | [Chan Zuckerberg Initiative](https://www.chanzuckerberg.com/careers)| The American Bookbinders Museum <br> 355 Clementina Street | 5:30PM-8PM | [RSVP](https://www.eventbrite.com/e/afrotech-celebration-with-czi-tickets-51487128387)
 [Lightening talks with Uber Engineers Donald Sumbry and Rick Boone](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform) | [Uber](https://www.uber.com/careers/) | Uber HQ <br> 1455 Market St  | 6PM-9PM | Contact calvin.simmons @uber.com for more information <br> [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfylineRXB_5UQsLwx0H9SB1L-y7xy6C1nnQ4q7vZOrs4G6tQ/viewform)
@@ -84,11 +85,18 @@ Company	                 | Booth | Offerings
 :---------------------:| ------------- | -------------
 [Square](https://squareup.com/careers) | B24 |  Recruiting <br> Come say 👋🏾 to [me](https://www.instagram.com/helloayo/) at the Square booth from 12-2! 
 [GoDaddy](https://careers.godaddy.com/) |  |  Stop by booth for chance to win 2 tix to the Fade Afterparty
+[InterApp](https://www.interactiveprintmedia.com/) | Bespoke | Earn $10 when you play the AfroTech treasure Hunt <br> [https://www.interactiveprintmedia.com/](https://www.interactiveprintmedia.com/)
+[Etsy](https://www.etsy.com/careers) | B22 |  Afro picks, shea butter 
+[Squire](https://angel.co/squire) |  |  Barber onsite
+
 ### Saturday, November 10
 Company	                 | Booth | Offerings
 :---------------------:| ------------- | -------------
 [Square](https://squareup.com/careers) | B24 |  Recruiting
 [GoDaddy](https://careers.godaddy.com/) |  |  Stop by booth for chance to win 2 tix to the Fade Afterparty
+[InterApp](https://www.interactiveprintmedia.com/) | Bespoke | Earn $10 when you play the AfroTech treasure Hunt <br> [https://www.interactiveprintmedia.com/](https://www.interactiveprintmedia.com/)
+[Etsy](https://www.etsy.com/careers) | B22 |  Afro picks, shea butter 
+[Squire](https://angel.co/squire) |  |  Barber onsite
 
 ## Travel Grants and Scholarships
 Opportunity              | Deadline      | Notes
