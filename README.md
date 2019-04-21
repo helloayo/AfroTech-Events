@@ -4,7 +4,7 @@ Events, receptions, and parties hosted by companies and groups during [AfroTech]
 
 Check back often as this list is updated regularly! Or just watch the repo to get alerted.
 
-**Contribute** by sending a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), opening an [Issue](https://github.com/helloayo/Afrotech-Events/issues) or emailing [afrotech@ayosuber.com](mailto:afrotech@ayosuber.com). Find me anywhere [@helloayo](https://twitter.com/@helloayo)
+**Contribute** by sending a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), opening an [Issue](https://github.com/helloayo/Afrotech-Events/issues) or emailing [afrotech {at} ayosuber {dot} com](mailto:afrotech@ayosuber.com). Find me anywhere [@helloayo](https://twitter.com/@helloayo)
 
 ## 2019 AfroTech Events
 
