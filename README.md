@@ -59,7 +59,7 @@ Company	                 | Booth | Offerings
 ## Travel Grants and Scholarships
 Opportunity              | Deadline      | Notes
 :---------------------:| ------------- | ------------
-
+[Google Travel and Conference Grants](https://docs.google.com/forms/d/e/1FAIpQLSf71z_QrNmd0cOpUOwY5vImXLiivnrVS_5tTY1JO4Q7beJ6aA/viewform)| September 2, 2019 | AfroTech tickets + up to $1000 in reimbursement for flight/accommodation costs <br> For any questions, please reach out to travel-grants@google.com
 
 
 Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events/), [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships), and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
