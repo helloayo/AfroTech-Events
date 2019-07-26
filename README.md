@@ -10,7 +10,7 @@ Check back often as this list is updated regularly! Or just watch the repo to ge
 
 November 7-10, 2019
 
-Location: Oakland, CA TBA
+Location: Oakland Convention Center, 10th Street, Oakland, CA, USA
 
 All events are free and located in Oakland, CA unless otherwise noted. Please double check the times!
 
