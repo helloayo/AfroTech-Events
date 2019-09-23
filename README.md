@@ -37,7 +37,7 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 ### Saturday, November 09
 Event	                 | Host(s)       | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-
+[The Afropolitan Day Party (Afrotech Edition)](https://afropolitanafrotech.eventbrite.com) | [Afropolitan](http://afropolitangroup.com/) | 1255 7th Street Oakland, CA 94607  3:00PM-8:00PM |  [RSVP](https://www.eventbrite.com/e/the-afropolitan-day-party-afrotech-edition-tickets-71596062751)
 
 ### Sunday, November 10
 Event	                 | Host(s)      | Location     | Time	   | Notes
