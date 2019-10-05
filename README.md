@@ -39,6 +39,7 @@ Event	                 | Host(s)       | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [The Afropolitan Day Party (Afrotech Edition)](https://afropolitanafrotech.eventbrite.com) | [Afropolitan](http://afropolitangroup.com/) | 1255 7th Street Oakland, CA 94607  3:00PM-8:00PM |  [RSVP](https://www.eventbrite.com/e/the-afropolitan-day-party-afrotech-edition-tickets-71596062751)
 
+[THE FADE – Afrotech Celebration presented by Toasted Life](https://www.eventbrite.com/e/the-fade-afrotech-celebration-presented-by-toasted-life-tickets-75203358269) | [Toasted Life](http://www.toastedlife.com/) | TBA | 10:00PM-2:00AM |  [RSVP](https://www.eventbrite.com/e/the-fade-afrotech-celebration-presented-by-toasted-life-tickets-75203358269)
 ### Sunday, November 10
 Event	                 | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
