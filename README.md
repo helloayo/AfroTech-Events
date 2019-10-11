@@ -33,9 +33,9 @@ Event                     | Host(s)      | Location     | Time	   | Notes
 
 Event                     | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Pinterest Palooza](https://pinterestpalooza2019.splashthat.com)| [Pinterest](https://careers.pinterest.com/careers) | Pinterest HQ <br> 651 Brannan Street San Francisco CA 94107 | 5PM-9:30PM |  [RSVP](https://pinterestpalooza2019.splashthat.com)
-[Square Afrotech Happy Hour](https://squareafrotechhappyhour.splashthat.com)| [Square x BSA](https://squareup.com/us/en/careers) | District Oakland <br> 827 Washington Street Oakland CA | 6PM-8PM |  [RSVP](https://squareafrotechhappyhour.splashthat.com)
-[CZI @ Afrotech!](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)| [Chan Zuckerberg Initiative](https://chanzuckerberg.com/join-us/openings/) | Kingston 11 Cuisine <br> 2270 Telegraph Avenue Oakland, CA 94612 | 6PM-8PM |  [RSVP](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)
+[Pinterest Palooza](https://pinterestpalooza2019.splashthat.com)| [Pinterest](https://careers.pinterest.com/careers) | Pinterest HQ <br> 651 Brannan Street, San Francisco, CA| 5PM-9:30PM |  [RSVP](https://pinterestpalooza2019.splashthat.com)
+[Square Afrotech Happy Hour](https://squareafrotechhappyhour.splashthat.com)| [Square x BSA](https://squareup.com/us/en/careers) | District Oakland <br> 827 Washington Street | 6PM-8PM |  [RSVP](https://squareafrotechhappyhour.splashthat.com)
+[CZI @ Afrotech!](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)| [Chan Zuckerberg Initiative](https://chanzuckerberg.com/join-us/openings/) | Kingston 11 Cuisine <br> 2270 Telegraph Avenue | 6PM-8PM |  [RSVP](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)
 
 ### Friday, November 08
 
@@ -46,7 +46,7 @@ Event                     | Host(s)       | Location     | Time	   | Notes
 
 Event                     | Host(s)       | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-[The Afropolitan Day Party (Afrotech Edition)](https://afropolitanafrotech.eventbrite.com) | [Afropolitan](http://afropolitangroup.com/) | 1255 7th Street Oakland, CA 94607  | 3:00PM-8:00PM |  [RSVP](https://www.eventbrite.com/e/the-afropolitan-day-party-afrotech-edition-tickets-71596062751)
+[The Afropolitan Day Party (Afrotech Edition)](https://afropolitanafrotech.eventbrite.com) | [Afropolitan](http://afropolitangroup.com/) | 1255 7th Street | 3:00PM-8:00PM |  [RSVP](https://www.eventbrite.com/e/the-afropolitan-day-party-afrotech-edition-tickets-71596062751)
 
 ### Sunday, November 10
 
