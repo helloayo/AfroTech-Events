@@ -20,7 +20,7 @@ All events are free and located in Oakland, CA unless otherwise noted. Please do
 
 Event                     | Date      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Square Afrotech Happy Hour](https://squareafrotechhappyhour.splashthat.com/)| Thursday, November 7th | District Oakland | 6PM-8PM | [RSVP](https://squareafrotechhappyhour.splashthat.com/)
+[Square Afrotech Happy Hour](https://squareafrotechhappyhour.splashthat.com)| Thursday, November 7th | District Oakland | 6PM-8PM | [RSVP](https://squareafrotechhappyhour.splashthat.com)
 
 ### Wednesday, November 06
 
@@ -31,8 +31,9 @@ Event                     | Host(s)      | Location     | Time	   | Notes
 
 Event                     | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Square Afrotech Happy Hour](https://squareafrotechhappyhour.splashthat.com/)| [Square x BSA](https://squareup.com/us/en/careers) | District Oakland <br> 827 Washington Street Oakland CA | 6PM-8PM |  [RSVP](https://squareafrotechhappyhour.splashthat.com/)
-[CZI @ Afrotech!](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)| [Chan Zuckerberg Initiative](https://chanzuckerberg.com/join-us/openings/) | Kingston 11 Cuisine <br> 2270 Telegraph Avenue Oakland, CA 94612 | 6PM-8PM |  [RSVP](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)
+[Pinterest Palooza](https://pinterestpalooza2019.splashthat.com)| [Pinterest](https://careers.pinterest.com/careers) | Pinterest HQ\ 651 Brannan Street San Francisco CA 94107 | 5PM-9:30PM |  [RSVP](https://pinterestpalooza2019.splashthat.com)
+[Square Afrotech Happy Hour](https://squareafrotechhappyhour.splashthat.com)| [Square x BSA](https://squareup.com/us/en/careers) | District Oakland\ 827 Washington Street Oakland CA | 6PM-8PM |  [RSVP](https://squareafrotechhappyhour.splashthat.com)
+[CZI @ Afrotech!](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)| [Chan Zuckerberg Initiative](https://chanzuckerberg.com/join-us/openings/) | Kingston 11 Cuisine\ 2270 Telegraph Avenue Oakland, CA 94612 | 6PM-8PM |  [RSVP](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)
 
 ### Friday, November 08
 
@@ -66,6 +67,6 @@ Company                     | Booth | Offerings
 
 Opportunity              | Deadline      | Notes
 :---------------------:| ------------- | ------------
-~[Google Travel and Conference Grants](https://docs.google.com/forms/d/e/1FAIpQLSf71z_QrNmd0cOpUOwY5vImXLiivnrVS_5tTY1JO4Q7beJ6aA/viewform)~| ~September 2, 2019~ | ~AfroTech tickets + up to $1000 in reimbursement for flight/accommodation costs <br> For any questions, please reach out to travel-grants@google.com~
+~[Google Travel and Conference Grants](https://docs.google.com/forms/d/e/1FAIpQLSf71z_QrNmd0cOpUOwY5vImXLiivnrVS_5tTY1JO4Q7beJ6aA/viewform)~| ~September 2, 2019~ | ~AfroTech tickets + up to $1000 in reimbursement for flight/accommodation costs\ For any questions, please reach out to travel-grants@google.com~
 
 Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events/), [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships), and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
