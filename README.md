@@ -33,7 +33,6 @@ Event                     | Host(s)      | Location     | Time	   | Notes
 
 Event                     | Host(s)      | Location     | Time	   | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Pinterest Palooza](https://pinterestpalooza2019.splashthat.com)| [Pinterest](https://careers.pinterest.com/careers) | Pinterest HQ <br> 651 Brannan Street <br> **San Francisco**| 5PM-9:30PM |  [RSVP](https://pinterestpalooza2019.splashthat.com)
 [Square Afrotech Happy Hour](https://squareafrotechhappyhour.splashthat.com)| [Square x BSA](https://squareup.com/us/en/careers) | District Oakland <br> 827 Washington Street | 6PM-8PM |  [RSVP](https://squareafrotechhappyhour.splashthat.com)
 [CZI @ Afrotech!](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)| [Chan Zuckerberg Initiative](https://chanzuckerberg.com/join-us/openings/) | Kingston 11 Cuisine <br> 2270 Telegraph Avenue | 6PM-8PM |  [RSVP](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)
 
