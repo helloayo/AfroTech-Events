@@ -8,8 +8,6 @@ Check back often as this list is updated regularly! Or just watch the repo to ge
 
 Find me anywhere [@helloayo](https://instagram.com/helloayo)
 
-**Engineers and Data Scientists:** [Join /dev/color](https://cutt.ly/Ueic5CC)
-
 ## 2019 AfroTech Events
 
 November 7-10, 2019
