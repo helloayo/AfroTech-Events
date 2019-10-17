@@ -16,11 +16,11 @@ Location: Oakland Convention Center, 10th Street, Oakland, CA, USA
 
 All events are free and located in Oakland, CA unless otherwise noted. Please double check the times!
 
-### Official AfroTech Events
+### Tuesday, November 05
 
-Event                     | Date      | Location     | Time       | Notes
+Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Square Afrotech Happy Hour](https://squareafrotechhappyhour.splashthat.com)| Thursday, November 7th | District Oakland | 6PM-8PM | [RSVP](https://squareafrotechhappyhour.splashthat.com)
+[Black at Uber - AfroTech Red Table Talk](https://www.eventbrite.com/e/black-at-uber-afrotech-red-table-talk-tickets-77035785107?aff=ayosuber)| [Black at Uber](https://www.uber.com/us/en/careers/list/) | TBD | 6PM-9PM |  [RSVP](https://www.eventbrite.com/e/black-at-uber-afrotech-red-table-talk-tickets-77035785107?aff=ayosuber)
 
 ### Wednesday, November 06
 
@@ -42,12 +42,14 @@ Event                     | Host(s)       | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Breakfast with Twitter's Leaders!](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 9AM-11AM |  [RSVP](https://weliftasweclimb.splashthat.com)
 [Afro Tech & The 100 Black Men of the Bay Area presents "Non-Techs in Tech"](https://www.eventbrite.com/e/afro-tech-the-100-black-men-of-the-bay-area-presents-non-techs-in-tech-tickets-76830063789?aff=ayosuber) | [100 Black Men](https://100blackmenba.org/)| Era Art Bar & Lounge <br> 19 Grand Avenue | 3PM-8:30PM | [RSVP](https://www.eventbrite.com/e/afro-tech-the-100-black-men-of-the-bay-area-presents-non-techs-in-tech-tickets-76830063789?aff=ayosuber)
+[Nextplay Classics: Anniversary](https://airtable.com/shrvokJrJ1vmqpgRy)| [Twitter](https://careers.twitter.com/en.html) | TBD | TBD |  [Request an Invite](https://airtable.com/shrvokJrJ1vmqpgRy)
 
 ### Saturday, November 09
 
 Event                     | Host(s)       | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [The Afropolitan Day Party (Afrotech Edition)](https://afropolitanafrotec.eventbrite.com?aff=ayosuber) | [Afropolitan](http://afropolitangroup.com/) | 1255 7th Street | 3:00PM-8:00PM |  [RSVP](https://www.eventbrite.com/e/the-afropolitan-day-party-afrotech-edition-tickets-71596062751)
+[In the Black Kickback](https://www.eventbrite.com/e/in-the-black-kickback-tickets-74332306931)| [Blend](https://blend.com/company/careers/) | District Oakland <br> 827 Washington Street | 5:30PM-9PM |  [RSVP](https://www.eventbrite.com/e/in-the-black-kickback-tickets-74332306931)
 [#ForTheCulture Tech After Hours](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 8PM-2AM |  [RSVP](https://weliftasweclimb.splashthat.com)
 
 ### Sunday, November 10
