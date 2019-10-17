@@ -8,7 +8,7 @@ Check back often as this list is updated regularly! Or just watch the repo to ge
 
 _**If your event costs money** and you'd like it promoted, email me and we can work something out_
 
-Find me anywhere [@helloayo](https://instagram.com/helloayo)
+👉🏾 Find me anywhere [@helloayo](https://instagram.com/helloayo) 👈🏾
 
 ## 2019 AfroTech Events
 
