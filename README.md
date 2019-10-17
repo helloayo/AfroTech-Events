@@ -6,7 +6,7 @@ Check back often as this list is updated regularly! Or just watch the repo to ge
 
 **Contribute:** If your event is free, send a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), open an [Issue](https://github.com/helloayo/Afrotech-Events/issues) or email [afrotech@ayosuber.com](mailto:afrotech@ayosuber.com). 
 
-**_If your event costs money and you'd like it promoted, email me and we can work something out_.**
+_**If your event costs money** and you'd like it promoted, email me and we can work something out_
 
 Find me anywhere [@helloayo](https://instagram.com/helloayo)
 
