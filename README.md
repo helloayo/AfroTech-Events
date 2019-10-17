@@ -42,7 +42,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Breakfast with Twitter's Leaders!](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 9AM-11AM |  [RSVP](https://weliftasweclimb.splashthat.com)
 [Afro Tech & The 100 Black Men of the Bay Area presents "Non-Techs in Tech"](https://www.eventbrite.com/e/afro-tech-the-100-black-men-of-the-bay-area-presents-non-techs-in-tech-tickets-76830063789?aff=ayosuber) | [100 Black Men](https://100blackmenba.org/)| Era Art Bar & Lounge <br> 19 Grand Avenue | 3PM-8:30PM | [RSVP](https://www.eventbrite.com/e/afro-tech-the-100-black-men-of-the-bay-area-presents-non-techs-in-tech-tickets-76830063789?aff=ayosuber)
-[Nextplay Classics: Anniversary](https://airtable.com/shrvokJrJ1vmqpgRy)| [Twitter](https://careers.twitter.com/en.html) | TBD | TBD |  [Request an Invite](https://airtable.com/shrvokJrJ1vmqpgRy)
+[Nextplay Classics: Anniversary](https://airtable.com/shrvokJrJ1vmqpgRy)| [Nextplay](https://www.nextplayevents.com/) | TBD | TBD |  [Request an Invite](https://airtable.com/shrvokJrJ1vmqpgRy)
 
 ### Saturday, November 09
 
