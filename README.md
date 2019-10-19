@@ -52,6 +52,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [The Afropolitan Day Party (Afrotech Edition)](https://afropolitanafrotec.eventbrite.com?aff=ayosuber) | [Afropolitan](http://afropolitangroup.com/) | 1255 7th Street | 3:00PM-8:00PM |  [RSVP](https://www.eventbrite.com/e/the-afropolitan-day-party-afrotech-edition-tickets-71596062751)
 [In the Black Kickback](https://www.eventbrite.com/e/in-the-black-kickback-tickets-74332306931)| [Blend](https://blend.com/company/careers/) | District Oakland <br> 827 Washington Street | 5:30PM-9PM |  [RSVP](https://www.eventbrite.com/e/in-the-black-kickback-tickets-74332306931)
+[Booze Cruise](https://www.eventbrite.com/e/booze-cruise-tickets-75617486939?aff=ayosuber) | [Juice for Color](www.juiceforcolor.com) | Jack London Square Boarding Dock (between Scott's Restaurant and Waterfront Hotel) <br> 1 Broadway | 6:30PM-10PM | [RSVP](https://www.eventbrite.com/e/booze-cruise-tickets-75617486939?aff=ayosuber)
 [#ForTheCulture Tech After Hours](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 8PM-2AM |  [RSVP](https://weliftasweclimb.splashthat.com)
 
 ### Sunday, November 10
