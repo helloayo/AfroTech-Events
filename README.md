@@ -82,21 +82,24 @@ Event                     | Host(s)      | Location     | Time       | Notes
 
 ## Expo Related Offerings
 
+### Daily
+
+Company                     | Booth | Offerings
+:---------------------:| ------------- | -------------
+[Square](https://squareup.com/us/en/careers) | | Stickers, Readers
+[Bain](https://www.bain.com/careers/) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
+[LinkedIn](https://careers.linkedin.com) | | On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e/), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0/), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092/), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c/)
+[Peleton](https://www.onepeloton.com/careers) | | Stickers
+
 ### Friday, November 08
 
 Company                     | Booth | Offerings
 :---------------------:| ------------- | -------------
-[Bain](https://www.bain.com/careers/) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
-[LinkedIn](https://careers.linkedin.com) | | On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e/), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0/), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092/), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c/)
-[Peleton](https://www.onepeloton.com/careers) | | Stickers
 
 ### Saturday, November 09
 
 Company                     | Booth | Offerings
 :---------------------:| ------------- | -------------
-[Bain](https://www.bain.com/careers/) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
-[LinkedIn](https://careers.linkedin.com) | | On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e/), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0/), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092/), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c/)
-[Peleton](https://www.onepeloton.com/careers) | | Stickers
 
 ## Travel Grants and Scholarships
 
