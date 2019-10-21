@@ -58,7 +58,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 [QueerAfrofuturistik](https://queer-afrofuturistik-2019.splashthat.com) | [Unity](https://careers.unity.com/location/san-francisco) | Forage Kitchen <br> 478 25th St | 6:30PM-10PM | [RSVP](https://queer-afrofuturistik-2019.splashthat.com)
 Happy Hour & Networking <br> Brought to you by Ciroc | Ciroc | Plank <br> 472 Water St | 7PM-9PM |
 Happy Hour | Afrotech | Forge Pizza <br> 66 Franklin St #100 | 7PM-9PM |
-[LinkedIn's Afrotech Mixer](https://linkedinafrotech2019.splashthat.com) | [LinkedIn](https://careers.linkedin.com) | Oakland Convention Center <br> 10th Street | 7PM-9PM | [Request an Invite](https://linkedinafrotech2019.splashthat.com)
+[LinkedIn's Afrotech Mixer](https://linkedinafrotech2019.splashthat.com) | [LinkedIn](https://careers.linkedin.com) | TBD | 7PM-9PM | [Request an Invite](https://linkedinafrotech2019.splashthat.com)
 [AfroTech Welcome Event](https://web.cvent.com/event/f8d44520-b3ac-4bc0-b6e5-7d650f8f2fee/summary) | [Autodesk](https://www.autodesk.com/careers) | Autodesk Gallery at One Market <br> One Market, Floor 2 <br> **San Francisco** | 8PM-11PM | [RSVP](https://web.cvent.com/event/f8d44520-b3ac-4bc0-b6e5-7d650f8f2fee/summary)
 Open Bowling | Afrotech | Plank <br> 472 Water St | 9PM-11PM |
 [Nextplay Classics: Anniversary](https://airtable.com/shrvokJrJ1vmqpgRy)| [Nextplay](https://www.nextplayevents.com/) | TBD | TBD |  [Request an Invite](https://airtable.com/shrvokJrJ1vmqpgRy)
