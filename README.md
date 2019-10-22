@@ -70,7 +70,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 [The Afropolitan Day Party (Afrotech Edition)](https://afropolitanafrotec.eventbrite.com?aff=ayosuber) | [Afropolitan](http://afropolitangroup.com/) | 1255 7th Street | 3:00PM-8:00PM |  [RSVP](https://www.eventbrite.com/e/the-afropolitan-day-party-afrotech-edition-tickets-71596062751)
 [Avalara x AfroTech Happy Hour](https://www.eventbrite.com/e/avalara-x-afrotech-happy-hour-tickets-74509914159) | [Avalara](https://www.avalara.com/us/en/about/jobs.html) | Lost and Found <br> 1439 Taraval Street <br> **San Francisco** | 5PM - 7PM | SF <br> [RSVP](https://www.eventbrite.com/e/avalara-x-afrotech-happy-hour-tickets-74509914159)
 [In the Black Kickback](https://www.eventbrite.com/e/in-the-black-kickback-tickets-74332306931)| [Blend](https://blend.com/company/careers/) | District Oakland <br> 827 Washington Street | 5:30PM-9PM |  [RSVP](https://www.eventbrite.com/e/in-the-black-kickback-tickets-74332306931)
-[Booze Cruise](https://www.eventbrite.com/e/booze-cruise-tickets-75617486939?aff=ayosuber) | [Juice for Color](www.juiceforcolor.com) | Jack London Square Boarding Dock <br> (between Scott's Restaurant and Waterfront Hotel) <br> 1 Broadway | 6:30PM-10PM | $70-$80 <br> [Buy Tickets](https://www.eventbrite.com/e/booze-cruise-tickets-75617486939?aff=ayosuber)
+[Booze Cruise](https://boozecruise.eventbrite.com?aff=ayosuber) | [Juice for Color](www.juiceforcolor.com) | Jack London Square Boarding Dock <br> (between Scott's Restaurant and Waterfront Hotel) <br> 1 Broadway | 6:30PM-10PM | $70-$80 <br> [Buy Tickets](https://boozecruise.eventbrite.com?aff=ayosuber)
 [AmazonxAfroTech 2019 Fireside Chat and Reception](https://amazonxafrotechfiresidechat.splashthat.com) | [Amazon](https://www.amazon.jobs/)| Location given if selected to attend | 6:30PM-10PM |[Register](https://amazonxafrotechfiresidechat.splashthat.com)
 [#ForTheCulture Tech After Hours](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 8PM-2AM |  [RSVP](https://weliftasweclimb.splashthat.com)
 
@@ -86,10 +86,10 @@ Event                     | Host(s)      | Location     | Time       | Notes
 
 Company                     | Booth | Offerings
 :---------------------:| ------------- | -------------
-[Square](https://squareup.com/us/en/careers) | | Stickers, Readers
+[Square](https://squareup.com/us/en/careers) | | Stickers, Readers, Recruiters
 [Bain](https://www.bain.com/careers/) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
 [LinkedIn](https://careers.linkedin.com) | | On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e/), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0/), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092/), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c/)
-[Peleton](https://www.onepeloton.com/careers) | | Stickers
+[Peloton](https://www.onepeloton.com/careers) | | Stickers, Recruiters on-site at the booth
 
 ### Friday, November 08
 
