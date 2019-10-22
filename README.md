@@ -59,6 +59,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 Happy Hour & Networking <br> Brought to you by Ciroc | Ciroc | Plank <br> 472 Water St | 7PM-9PM |
 Happy Hour | Afrotech | Forge Pizza <br> 66 Franklin St #100 | 7PM-9PM |
 [LinkedIn's Afrotech Mixer](https://linkedinafrotech2019.splashthat.com) | [LinkedIn](https://careers.linkedin.com) | TBD | 7PM-9PM | [Request an Invite](https://linkedinafrotech2019.splashthat.com)
+Peloton x AfroTech “Culture & Code” mixer | [Peloton](https://www.onepeloton.com/careers) | District Oakland <br> 827 Washington Street | 7PM-9PM | Peloton will reach out for invites
 [AfroTech Welcome Event](https://web.cvent.com/event/f8d44520-b3ac-4bc0-b6e5-7d650f8f2fee/summary) | [Autodesk](https://www.autodesk.com/careers) | Autodesk Gallery at One Market <br> One Market, Floor 2 <br> **San Francisco** | 8PM-11PM | [RSVP](https://web.cvent.com/event/f8d44520-b3ac-4bc0-b6e5-7d650f8f2fee/summary)
 Open Bowling | Afrotech | Plank <br> 472 Water St | 9PM-11PM |
 [Nextplay Classics: Anniversary](https://airtable.com/shrvokJrJ1vmqpgRy)| [Nextplay](https://www.nextplayevents.com/) | TBD | TBD |  [Request an Invite](https://airtable.com/shrvokJrJ1vmqpgRy)
