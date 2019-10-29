@@ -24,12 +24,14 @@ All events are free and located in Oakland, CA unless otherwise noted. Please do
 
 Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Black at Uber - AfroTech Red Table Talk](https://www.eventbrite.com/e/black-at-uber-afrotech-red-table-talk-tickets-77035785107?aff=ayosuber)| [Black at Uber](https://www.uber.com/us/en/careers/list/) | TBD | 6PM-9PM |  [RSVP](https://www.eventbrite.com/e/black-at-uber-afrotech-red-table-talk-tickets-77035785107?aff=ayosuber)
+[Black at Uber - AfroTech Red Table Talk](https://www.eventbrite.com/e/black-at-uber-afrotech-red-table-talk-tickets-77035785107?aff=ayosuber)| [Black at Uber](https://www.uber.com/us/en/careers/list/) | Kapor Center <br> 2148 Broadway | 6PM-9PM | [RSVP](https://www.eventbrite.com/e/black-at-uber-afrotech-red-table-talk-tickets-77035785107?aff=ayosuber)
 
 ### Wednesday, November 06
 
 Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Black by Design](https://www.eventbrite.com/e/black-by-design-tickets-78277467011?aff=ayosuber) | [LinkedIn Design](https://careers.linkedin.com) | LinkedIn <br> 222 2nd Street <br> San Francisco | 5:30PM-8:30PM | SF <br> [RSVP](https://www.eventbrite.com/e/black-by-design-tickets-78277467011?aff=ayosuber)
+[Kick off Afrotech with Trivia Night at Reddit HQ!](https://www.eventbrite.com/e/kick-off-afrotech-with-trivia-night-at-reddit-hq-registration-74203993141?aff=ayosuber) | [Black People Reddit](https://www.redditinc.com/careers) | Reddit <br> 420 Taylor Street <br> San Francisco | 6PM-9PM | SF <br> [RSVP](https://www.eventbrite.com/e/kick-off-afrotech-with-trivia-night-at-reddit-hq-registration-74203993141?aff=ayosuber)
 
 ### Thursday, November 07
 
@@ -56,7 +58,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 [In conversation with VSCO x Afrotech - On Creativity Beyond Craft](https://vscoandafrotech.splashthat.com) | [VSCO](https://vsco.co/about/careers)| VSCO HQ <br> 1500 Broadway, | 5:30PM-9PM | [RSVP](https://vscoandafrotech.splashthat.com)
 [Innovation + Design: A Conversation with IDEO & IDEO.org Designers of Color](https://www.eventbrite.com/e/innovation-design-a-conversation-with-ideo-ideoorg-designers-of-color-tickets-77411900077) | [IDEO](https://www.ideo.com/jobs) | IDEO <br> 501 The Embarcadero <br> San Francisco | 6PM-8:45PM | [RSVP](https://www.eventbrite.com/e/innovation-design-a-conversation-with-ideo-ideoorg-designers-of-color-tickets-77411900077)
 [Zillow "Do the Right Thing" Networking Event](https://zillow.recsolu.com/external/events/_QuEEzwnSGgFsTylyLXrZQ) | [Zillow](https://www.zillow.com/careers) | Parliment <br> 811 Washington St | 6PM-9PM | [RSVP](https://zillow.recsolu.com/external/events/_QuEEzwnSGgFsTylyLXrZQ)
-[Mahogany Presents : Real Talk](https://slackxrealtalk.splashthat.com/) | [Slack](https://slack.com/careers) | Slack HQ <br> 500 Howard Street San Francisco | 6PM-9PM | [RSVP](https://slackxrealtalk.splashthat.com/)
+[Mahogany Presents: Real Talk](https://slackxrealtalk.splashthat.com) | [Slack x Mahogany](https://slack.com/careers) | Slack HQ <br> 500 Howard Street  <br> **San Francisco** | 6PM-9PM | SF <br> [RSVP](https://slackxrealtalk.splashthat.com)
 [Reddit AfroTech Happy Hour (Late Edition)](https://www.eventbrite.com/e/reddit-afrotech-happy-hour-late-edition-tickets-76078082593) | [Reddit x Black People Reddit (BPR)](https://www.redditinc.com/careers) | Make Westing <br> 1741 Telegraph Avenue | 6PM-10PM | [RSVP](https://www.eventbrite.com/e/reddit-afrotech-happy-hour-late-edition-tickets-76078082593)
 [QueerAfrofuturistik](https://queer-afrofuturistik-2019.splashthat.com) | [Unity](https://careers.unity.com/location/san-francisco) | Forage Kitchen <br> 478 25th St | 6:30PM-10PM | [RSVP](https://queer-afrofuturistik-2019.splashthat.com)
 Happy Hour & Networking <br> Brought to you by Ciroc | Ciroc | Plank <br> 472 Water St | 7PM-9PM |
