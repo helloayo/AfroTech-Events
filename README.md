@@ -10,7 +10,7 @@ If your event is **free**, send a [pull request](https://github.com/helloayo/Afr
 <br>
 _**If your event costs money** and you'd like it promoted, [email me](mailto:afrotech@ayosuber.com?subject=AfroTech%20Event%20Promotion%20Ask) and we can work something out_
 
-👉🏾 Follow me for ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
+👉🏾 Follow me (Ayo) for ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
 
 ## 2019 AfroTech Events
 
