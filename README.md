@@ -47,7 +47,7 @@ Event                   | Host(s)     |   About    |
 
 Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Black at Uber - AfroTech Red Table Talk](https://www.eventbrite.com/e/black-at-uber-afrotech-red-table-talk-tickets-77035785107?aff=ayosuber)| [Black at Uber](https://www.uber.com/us/en/careers/list) | Kapor Center <br> 2148 Broadway | 6PM-9PM | [RSVP](https://www.eventbrite.com/e/black-at-uber-afrotech-red-table-talk-tickets-77035785107?aff=ayosuber)
+[Black at Uber - AfroTech Red Table Talk](https://afrotechredtabletalk.splashthat.com)| [Black at Uber](https://www.uber.com/us/en/careers/list) | Kapor Center <br> 2148 Broadway | 6PM-9PM | [RSVP](https://afrotechredtabletalk.splashthat.com)
 
 ### Wednesday, November 06
 
