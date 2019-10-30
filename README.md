@@ -12,6 +12,8 @@ _**If your event costs money** and you'd like it promoted, [email me](mailto:afr
 
 👉🏾 Follow me (Ayo) for ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
 
+Sharable link: [bit.ly/ayoafrotech](http://bit.ly/ayoafrotech)
+
 ## 2019 AfroTech Events
 
 November 7-10, 2019
