@@ -22,18 +22,18 @@ All events are free and located in Oakland, CA unless otherwise noted. Please do
 
 ### Hosted by Afrotech
 
-Event                   | Day     |   Location  |   Time   |
+Event                   | Day     |   Time  |   Location   |
 :---------------------:|  ------------ | ------------ |------------ |
-[LGBTQ+ Happy Hour](https://sched.co/Wrur) | Thursday | Forge Pizza <br> 66 Franklin St #100 | 5:30PM-7PM
-[South African Tourism Experience](https://sched.co/WrtQ) | Thursday | Scott's Seafood Bar & Grill | 7PM-10PM
-[Expo Floor DJ](https://sched.co/X9VE) | Friday | Expo Floor | 1PM-3PM
-[Musical Performance](https://sched.co/WuSA) | Friday | Outdoor Campus | 2PM-3PM
-[Corporate Happy Hour](https://sched.co/X3t1) (Corporate Tickets Only) | Friday | Convention Center in Learning Lab | 5PM-6:30PM
-Platinum Happy Hour (Platinum Tickets Only)| Friday | Plank <br> 472 Water St | 5PM-7PM |
-[JP Morgan Dinner](https://sched.co/Wuje) | Friday |  | 6:30PM-9PM
-[CEO Women in Leadership Dinner](https://sched.co/Wuis) (By Invitaion Only) | Friday | Scotts (Jack London Square) <br> 245 2nd S | 7PM-9PM
-[Happy Hour](https://sched.co/Wukf) | Friday | Forge Pizza <br> 66 Franklin St #100 | 7PM-9PM
-[Open Bowling](https://sched.co/WukZ) | Friday | Plank <br> 472 Water St | 9PM-11PM
+[LGBTQ+ Happy Hour](https://sched.co/Wrur) | Thursday | 5:30PM-7PM | Forge Pizza <br> 66 Franklin St #100
+[South African Tourism Experience](https://sched.co/WrtQ) | Thursday | 7PM-10PM | Scott's Seafood Bar & Grill
+[Expo Floor DJ](https://sched.co/X9VE) | Friday | 1PM-3PM | Expo Floor
+[Musical Performance](https://sched.co/WuSA) | Friday | 2PM-3PM | Outdoor Campus
+[Corporate Happy Hour](https://sched.co/X3t1) (Corporate Tickets Only) | Friday | 5PM-6:30PM | Convention Center in Learning Lab
+Platinum Happy Hour (Platinum Tickets Only)| Friday | 5PM-7PM | | Plank <br> 472 Water St
+[JP Morgan Dinner](https://sched.co/Wuje) | Friday | 6:30PM-9PM |
+[CEO Women in Leadership Dinner](https://sched.co/Wuis) (By Invitaion Only) | Friday | 7PM-9PM | Scotts (Jack London Square) <br> 245 2nd St
+[Happy Hour](https://sched.co/Wukf) | Friday | 7PM-9PM | Forge Pizza <br> 66 Franklin St #100
+[Open Bowling](https://sched.co/WukZ) | Friday | 9PM-11PM | Plank <br> 472 Water St
 
 ### Weeklong (November 7-10)
 
@@ -85,7 +85,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 [Fivetran x dev/color x Afrotech](https://www.eventbrite.com/e/fivetran-x-devcolor-x-afrotech-happy-hour-after-party-tickets-78303380519?fbclid=IwAR2cCq_SZqur0jN6FrdXROFPMBMwB94vQ6tiidpKmGPMg8NlhderDyf-Df0%C2%A0) | [Fivetran x dev/color](https://fivetran/careers)| Fort Green <br> 736 Washington St, | 4:30PM-7:30PM | [RSVP](https://www.eventbrite.com/e/fivetran-x-devcolor-x-afrotech-happy-hour-after-party-tickets-78303380519?fbclid=IwAR2cCq_SZqur0jN6FrdXROFPMBMwB94vQ6tiidpKmGPMg8NlhderDyf-Df0%C2%A0)
 [Wakanda DreamLab Interactive Exhibit](https://thetownexperience.com/event/wakanda-dreamlab-interactive-exhibit)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 5PM-8PM | [RSVP](https://thetownexperience.com/event/wakanda-dreamlab-interactive-exhibit)
 [Build Community: Black recruiters in tech](https://afrotechbuildcomminvite.splashthat.com) | [Facebook](https://www.facebook.com/careers) | Location given if selected to attend  | 5:30PM-7:30PM |[Request an invite](https://afrotechbuildcomminvite.splashthat.com)
-[Strong Black Leads Happy Hour](https://netflixsblhappyhour.splashthat.com) | [Netflix](https://jobs.netflix.com) | 1544 Events <br> 1544 Broadway St.  | 5:30PM-8:30PM |[RSVP](https://netflixsblhappyhour.splashthat.com)
+[Strong Black Leads Happy Hour](https://netflixsblhappyhour.splashthat.com) | [Netflix](https://jobs.netflix.com) | 1544 Events <br> 1544 Broadway St | 5:30PM-8:30PM |[RSVP](https://netflixsblhappyhour.splashthat.com)
 [The Town Experience Private Happy Hour](https://thetownexperience.com/event/the-town-experience-private-happy-hour)| [TicketDM](https://www.ticketdm.com) | Secret Location w/RSVP | 5:30PM-8PM |  [RSVP](https://thetownexperience.com/event/the-town-experience-private-happy-hour)
 [In conversation with VSCO x Afrotech - On Creativity Beyond Craft](https://vscoandafrotech.splashthat.com) | [VSCO](https://vsco.co/about/careers)| VSCO HQ <br> 1500 Broadway, | 5:30PM-9PM | [RSVP](https://vscoandafrotech.splashthat.com)
 [American Airlines Innovation Mixer](https://docs.google.com/forms/d/1xBSgI1BU6oYSGxS6h1URg31_T1DDP9bXFJmBnD93-ig/viewform?edit_requested=true)| [American Airlines](https://jobs.aa.com/search) | Iron & Oak (inside the Oakland Marriott) | 6PM-8PM |  [Register](https://docs.google.com/forms/d/1xBSgI1BU6oYSGxS6h1URg31_T1DDP9bXFJmBnD93-ig/viewform?edit_requested=true)
