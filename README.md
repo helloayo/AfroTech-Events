@@ -10,7 +10,7 @@ If your event is **free**, send a [pull request](https://github.com/helloayo/Afr
 <br>
 _**If your event costs money** and you'd like it promoted, [email me](mailto:afrotech@ayosuber.com?subject=AfroTech%20Event%20Promotion%20Ask) and we can work something out_
 
-👉🏾 Find me anywhere [@helloayo](https://instagram.com/helloayo) 👈🏾
+👉🏾 Follow me for ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
 
 ## 2019 AfroTech Events
 
@@ -46,7 +46,7 @@ Event                     | Host(s)      | Location     | Time       | Notes
 [Building a Bridge to Diversity Reception](https://forms.gle/eswxgyYKes5PNSPH8)| [SoftBank](https://group.softbank/en/corp/hr/careers) | Location given if selected to attend | 3PM-5PM | For founders looking to get funded <br> [Request an Invite](https://forms.gle/eswxgyYKes5PNSPH8)
 [“Welcome to Oakland” Opening Mixer](https://thetownexperience.com/event/welcome-to-oakland-opening-mixer)| [TicketDM](https://www.ticketdm.com) | Pandora HQ <br> 2100 Franklin St #700 | 5PM-7PM |  [RSVP](https://thetownexperience.com/event/welcome-to-oakland-opening-mixer)
 [Made In The Town](https://www.eventbrite.com/e/impossibletm-black-employee-networking-event-tickets-78496528229?aff=ayosuber)| [Impossible Foods Inc. Black Employee Network](https://impossiblefoods.com/careers) | alaMar Kitchen & Bar <br> 100 Grand Avenue | 5PM-7PM |  [RSVP](https://www.eventbrite.com/e/impossibletm-black-employee-networking-event-tickets-78496528229?aff=ayosuber)
-[Amazon Web Services Visits Oakland](https://aws-bts-oakland.splashthat.com) | [Amazon](https://www.amazon.jobs)| The Alice Collective <br> 272 14th Street | 5PM-8PM | [Register](https://aws-bts-oakland.splashthat.com)
+[Amazon Web Services Visits Oakland](https://aws-bts-oakland.splashthat.com) | [Amazon](https://www.amazon.jobs)| The Alice Collective <br> 272 14th Street | 5PM-8PM | [RSVP](https://aws-bts-oakland.splashthat.com)
 [Pinterest Palooza](https://pinterestpalooza2019.splashthat.com)| [Pinterest](https://careers.pinterest.com/careers) | Pinterest HQ <br> 651 Brannan Street <br> **San Francisco**| 5PM-9:30PM | SF <br> [RSVP](https://pinterestpalooza2019.splashthat.com)
 LGBTQ+ Happy Hour | Afrotech | Forge Pizza <br> 66 Franklin St #100 | 5:30PM-7PM |
 [Dropbox AfroTech 2019 Mixer](https://dropboxafrotech2019mixer.splashthat.com) | [Dropbox](https://www.dropbox.com/jobs)| Miss Ollie's <br> 901 Washington Street Oakland, CA | 5:45PM-8PM | [RSVP](https://dropboxafrotech2019mixer.splashthat.com)
@@ -65,7 +65,7 @@ LGBTQ+ Happy Hour | Afrotech | Forge Pizza <br> 66 Franklin St #100 | 5:30PM-7PM
 Event                     | Host(s)       | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Breakfast with Twitter's Leaders!](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 9AM-11AM |  [RSVP](https://weliftasweclimb.splashthat.com)
-[HellaTech](https://thetownexperience.com/event/hellatech)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 10:30AM-6PM |  [Buy Tickets](https://thetownexperience.com/event/hellatech)s
+[HellaTech](https://thetownexperience.com/event/hellatech)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 10:30AM-6PM |  [Buy Tickets](https://thetownexperience.com/event/hellatech)
 [Afro Tech & The 100 Black Men of the Bay Area presents "Non-Techs in Tech"](https://www.eventbrite.com/e/afro-tech-the-100-black-men-of-the-bay-area-presents-non-techs-in-tech-tickets-76830063789?aff=ayosuber) | [100 Black Men](https://100blackmenba.org)| Era Art Bar & Lounge <br> 19 Grand Avenue | 3PM-8:30PM | [RSVP](https://www.eventbrite.com/e/afro-tech-the-100-black-men-of-the-bay-area-presents-non-techs-in-tech-tickets-76830063789?aff=ayosuber)
 [Fivetran x dev/color x Afrotech](https://www.eventbrite.com/e/fivetran-x-devcolor-x-afrotech-happy-hour-after-party-tickets-78303380519?fbclid=IwAR2cCq_SZqur0jN6FrdXROFPMBMwB94vQ6tiidpKmGPMg8NlhderDyf-Df0%C2%A0) | [Fivetran x dev/color](https://fivetran/careers)| Fort Green <br> 736 Washington St, | 4:30PM-7:30PM | [RSVP](https://www.eventbrite.com/e/fivetran-x-devcolor-x-afrotech-happy-hour-after-party-tickets-78303380519?fbclid=IwAR2cCq_SZqur0jN6FrdXROFPMBMwB94vQ6tiidpKmGPMg8NlhderDyf-Df0%C2%A0)
 [Wakanda DreamLab Interactive Exhibit](https://thetownexperience.com/event/wakanda-dreamlab-interactive-exhibit)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 5PM-8PM | [RSVP](https://thetownexperience.com/event/wakanda-dreamlab-interactive-exhibit)
