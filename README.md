@@ -25,13 +25,13 @@ All events are free and located in Oakland, CA unless otherwise noted. Please do
 Event                   | Day     |   Time  |   Location   |
 :---------------------:|  ------------ | ------------ |------------ |
 [LGBTQ+ Happy Hour](https://sched.co/Wrur) | Thursday | 5:30PM-7PM | Forge Pizza <br> 66 Franklin St #100
-[South African Tourism Experience](https://sched.co/WrtQ) | Thursday | 7PM-10PM | Scott's Seafood Bar & Grill
+[South African Tourism Experience](https://sched.co/WrtQ) | Thursday | 7PM-10PM | Scott's Seafood Bar & Grill <br> 245 2nd St
 [Expo Floor DJ](https://sched.co/X9VE) | Friday | 1PM-3PM | Expo Floor
 [Musical Performance](https://sched.co/WuSA) | Friday | 2PM-3PM | Outdoor Campus
 [Corporate Happy Hour](https://sched.co/X3t1) (Corporate Tickets Only) | Friday | 5PM-6:30PM | Convention Center in Learning Lab
 Platinum Happy Hour (Platinum Tickets Only)| Friday | 5PM-7PM | | Plank <br> 472 Water St
 [JP Morgan Dinner](https://sched.co/Wuje) | Friday | 6:30PM-9PM |
-[CEO Women in Leadership Dinner](https://sched.co/Wuis) (By Invitaion Only) | Friday | 7PM-9PM | Scotts (Jack London Square) <br> 245 2nd St
+[CEO Women in Leadership Dinner](https://sched.co/Wuis) (By Invitaion Only) | Friday | 7PM-9PM | Scott's Seafood Bar & Grill <br> 245 2nd St
 [Happy Hour](https://sched.co/Wukf) | Friday | 7PM-9PM | Forge Pizza <br> 66 Franklin St #100
 [Open Bowling](https://sched.co/WukZ) | Friday | 9PM-11PM | Plank <br> 472 Water St
 
