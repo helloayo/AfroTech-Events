@@ -127,6 +127,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 
 Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Breakfast w. Goldman Sachs Engineering](https://recruiting360.avature.net/candidates/Register?projectId=12796&trk=public-post_share-update_update-text) | [Goldman Sacs](https://www.goldmansachs.com/careers/divisions/engineering/index.html) | Location given if selected to attend | 10AM-1PM | [Register by Monday](https://recruiting360.avature.net/candidates/Register?projectId=12796&trk=public-post_share-update_update-text)
 [RnB House Party x Twitter Brunch](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 11AM-3PM |  [RSVP](https://weliftasweclimb.splashthat.com)
 
 ## Expo Related Offerings
