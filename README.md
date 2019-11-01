@@ -1,6 +1,6 @@
 # Afrotech-Events
 
-Events, receptions, parties, and [expo related offerings](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#expo-related-offerings) hosted by companies and groups during [AfroTech](https://e.sparxo.com/Afrotech19).
+Events, receptions, parties, and [expo related offerings](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#expo-related-offerings) hosted by companies and groups during [AfroTech](https://e.sparxo.com/Afrotech19). Also includes [travel grants and scholarships](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#travel-grants-and-scholarships).
 
 Check back often as this list is updated regularly! Or just watch the repo to get alerted.
 
