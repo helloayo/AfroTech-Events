@@ -1,6 +1,6 @@
 # Afrotech-Events
 
-Events, receptions, parties, and [expo related offerings](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#expo-related-offerings) hosted by companies and groups during [AfroTech](https://e.sparxo.com/Afrotech19). Also includes [travel grants and scholarships](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#travel-grants-and-scholarships). All events open to the public with the exception of those hosted by AfroTech itself.
+Events, receptions, parties, and [expo related offerings](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#expo-related-offerings) hosted by companies and groups during [AfroTech](https://e.sparxo.com/Afrotech19). Also includes [travel grants and scholarships](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#travel-grants-and-scholarships) and [ways to connect with other attendees](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#travel-grants-and-scholarships). All events open to the public with the exception of those hosted by AfroTech itself.
 
 Check back often as this list is updated regularly! Or just watch the repo to get alerted.
 
@@ -163,6 +163,7 @@ Company                     | Booth | Offerings
 [Bain](https://www.bain.com/careers) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
 [LinkedIn](https://careers.linkedin.com) | | Headshot photos, On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
 [Peloton](https://www.onepeloton.com/careers) | | Stickers, Recruiters on-site at the booth
+[R/GA](https://www.rga.com/careers) | 28 | 
 
 ### Offsite Daily (Friday and Saturday)
 
@@ -191,5 +192,14 @@ Company                     | Booth | Offerings
 Opportunity              | Deadline      | Notes
 :---------------------:| ------------- | ------------
 ~[Google Travel and Conference Grants](https://docs.google.com/forms/d/e/1FAIpQLSf71z_QrNmd0cOpUOwY5vImXLiivnrVS_5tTY1JO4Q7beJ6aA/viewform)~| ~September 2, 2019~ | ~AfroTech tickets + up to $1000 in reimbursement for flight/accommodation costs <br> For any questions, please reach out to travel-grants@google.com~
+
+## Connect With Others During the Conference
+
+Group             | Platform     | Notes
+:---------------------:| ------------- | ------------
+🧡💚[FAMUans @ AfroTech](https://groupme.com/join_group/45905834/UWxxdM) | Groupme | FAMUly only 🐍🐍🐍
+[AfroTech 2019 Groupme](http://groupme.com/join_group/51639162/fsitQJ23) | Groupme
+[Sistas at AfroTech](http://groupme.com/join_group/45841051/jsygEk) | Groupme
+[AfroTech 2019 Slack](http://bit.ly/afrotech-2019) | Slack
 
 Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events), [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships), and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
