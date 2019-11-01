@@ -112,6 +112,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 [Innovation + Design: A Conversation with IDEO & IDEO.org Designers of Color](https://www.eventbrite.com/e/innovation-design-a-conversation-with-ideo-ideoorg-designers-of-color-tickets-77411900077) | [IDEO](https://www.ideo.com/jobs) | IDEO <br> 501 The Embarcadero <br> **San Francisco** | 6PM-8:45PM | SF <br> [RSVP](https://www.eventbrite.com/e/innovation-design-a-conversation-with-ideo-ideoorg-designers-of-color-tickets-77411900077)
 [Zillow "Do the Right Thing" Networking Event](https://zillow.recsolu.com/external/events/_QuEEzwnSGgFsTylyLXrZQ) | [Zillow](https://www.zillow.com/careers) | Parliment <br> 811 Washington St | 6PM-9PM | [RSVP](https://zillow.recsolu.com/external/events/_QuEEzwnSGgFsTylyLXrZQ)
 [Mahogany Presents: Real Talk](https://slackxrealtalk.splashthat.com) | [Slack x Mahogany](https://slack.com/careers) | Slack HQ <br> 500 Howard Street  <br> **San Francisco** | 6PM-9PM | SF <br> [RSVP](https://slackxrealtalk.splashthat.com)
+[Building Your Product And Raising Capital - Fireside Chat](https://buildingyourproduct.splashthat.com) | [Black@Facebook](https://www.facebook.com/careers) x [BlackTech Meetup](http://www.blacktechmeetup.org) x [Harlem Capital](http://harlem.capital) | 2270 Telegraph Avenue | 6PM-9PM | blacktech <br> [RSVP](https://buildingyourproduct.splashthat.com)
 [Reddit AfroTech Happy Hour (Late Edition)](https://www.eventbrite.com/e/reddit-afrotech-happy-hour-late-edition-tickets-76078082593) | [Reddit x Black People Reddit (BPR)](https://www.redditinc.com/careers) | Make Westing <br> 1741 Telegraph Avenue | 6PM-10PM | [RSVP](https://www.eventbrite.com/e/reddit-afrotech-happy-hour-late-edition-tickets-76078082593)
 [QueerAfrofuturistik](https://queer-afrofuturistik-2019.splashthat.com) | [Unity](https://careers.unity.com/location/san-francisco) | Forage Kitchen <br> 478 25th St | 6:30PM-10PM | [RSVP](https://queer-afrofuturistik-2019.splashthat.com)
 [Lyft @ AfroTech Happy Hour](https://lyftafrotechhh19.splashthat.com)| [Lyft](https://www.lyft.com/careers)| Starline Social Club <br> 2236 Martin Luther King Jr Way | 7PM-9PM |  [RSVP](https://lyftafrotechhh19.splashthat.com)
@@ -163,7 +164,7 @@ Company                     | Booth | Offerings
 [Bain](https://www.bain.com/careers) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
 [LinkedIn](https://careers.linkedin.com) | | Headshot photos, On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
 [Peloton](https://www.onepeloton.com/careers) | | Stickers, Recruiters on-site at the booth
-[R/GA](https://www.rga.com/careers) | 28 | 
+[R/GA](https://www.rga.com/careers) | 28 | Stickers, raffles
 
 ### Offsite Daily (Friday and Saturday)
 
