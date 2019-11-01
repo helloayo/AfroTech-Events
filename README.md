@@ -1,6 +1,6 @@
 # Afrotech-Events
 
-Events, receptions, and parties hosted by companies and groups during [AfroTech](https://e.sparxo.com/Afrotech19).
+Events, receptions, parties, and [expo related offerings](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#expo-related-offerings) hosted by companies and groups during [AfroTech](https://e.sparxo.com/Afrotech19).
 
 Check back often as this list is updated regularly! Or just watch the repo to get alerted.
 
@@ -13,6 +13,10 @@ _**If your event costs money** and you'd like it promoted, [email me](mailto:afr
 👉🏾 Follow me (Ayo) for ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
 
 Sharable link: [bit.ly/ayoafrotech](http://bit.ly/ayoafrotech)
+
+_Please note that I do not work for AfroTech and I cannot answer any questions about the conference. This is just something I do for the people._
+
+_Some events may require an access code. If this is the case, get in touch with the event organizer or find someone who works at the company to help you get access._
 
 ## 2019 AfroTech Events
 
@@ -61,6 +65,7 @@ Event                     | Host(s)      | Location     | Time       | Notes
 Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Building a Bridge to Diversity Reception](https://forms.gle/eswxgyYKes5PNSPH8)| [SoftBank](https://group.softbank/en/corp/hr/careers) | Location given if selected to attend | 3PM-5PM | For founders looking to get funded <br> [Request an Invite](https://forms.gle/eswxgyYKes5PNSPH8)
+[Open House at Pandora](https://openhouseatpandorahq.splashthat.com)| [Pandora](https://pandora.com/careers/all) | Pandora HQ <br> 2100 Franklin St #700 | 3:30PM-7PM | [Request an Invite](https://openhouseatpandorahq.splashthat.com)
 [Tech Meets Culture](https://rga-afrotech.splashthat.com)| [R/GA](https://www.rga.com/careers) | Bar Shiru <br> 1611 Telegraph Avenue | 4:30PM-7:30PM | For founders looking to get funded <br> [Request an Invite](https://rga-afrotech.splashthat.com)
 [“Welcome to Oakland” Opening Mixer](https://thetownexperience.com/event/welcome-to-oakland-opening-mixer)| [Pandora](https://pandora.com/careers/all) x [TicketDM](https://www.ticketdm.com) | Pandora HQ <br> 2100 Franklin St #700 | 5PM-7PM |  [RSVP](https://thetownexperience.com/event/welcome-to-oakland-opening-mixer)
 [Made In The Town](https://www.eventbrite.com/e/impossibletm-black-employee-networking-event-tickets-78496528229?aff=ayosuber)| [Impossible Foods Inc. Black Employee Network](https://impossiblefoods.com/careers) | alaMar Kitchen & Bar <br> 100 Grand Avenue | 5PM-7PM |  [RSVP](https://www.eventbrite.com/e/impossibletm-black-employee-networking-event-tickets-78496528229?aff=ayosuber)
@@ -146,7 +151,7 @@ Company                     | Booth | Offerings
 [![Square](https://xms-production-f.squarecdn.com/xms/assets/logos/square-22d4f700b4c53e104f17cab67cc34b9c27f99f2ea877069c6b2773d821a30004.svg)](https://squareup.com/us/en/careers) | | Stickers, Readers, Recruiters
 [Adobe](https://www.adobe.com/careers.html) | 81 | T-shirts
 [Bain](https://www.bain.com/careers) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
-[LinkedIn](https://careers.linkedin.com) | | On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
+[LinkedIn](https://careers.linkedin.com) | | Headshot photos, On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
 [Peloton](https://www.onepeloton.com/careers) | | Stickers, Recruiters on-site at the booth
 
 ### Offsite Daily
