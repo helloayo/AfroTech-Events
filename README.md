@@ -61,6 +61,7 @@ Event                     | Host(s)      | Location     | Time       | Notes
 Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Building a Bridge to Diversity Reception](https://forms.gle/eswxgyYKes5PNSPH8)| [SoftBank](https://group.softbank/en/corp/hr/careers) | Location given if selected to attend | 3PM-5PM | For founders looking to get funded <br> [Request an Invite](https://forms.gle/eswxgyYKes5PNSPH8)
+[Tech Meets Culture](https://rga-afrotech.splashthat.com)| [R/GA](https://www.rga.com/careers) | Bar Shiru <br> 1611 Telegraph Avenue | 4:30PM-7:30PM | For founders looking to get funded <br> [Request an Invite](https://rga-afrotech.splashthat.com)
 [“Welcome to Oakland” Opening Mixer](https://thetownexperience.com/event/welcome-to-oakland-opening-mixer)| [TicketDM](https://www.ticketdm.com) | Pandora HQ <br> 2100 Franklin St #700 | 5PM-7PM |  [RSVP](https://thetownexperience.com/event/welcome-to-oakland-opening-mixer)
 [Made In The Town](https://www.eventbrite.com/e/impossibletm-black-employee-networking-event-tickets-78496528229?aff=ayosuber)| [Impossible Foods Inc. Black Employee Network](https://impossiblefoods.com/careers) | alaMar Kitchen & Bar <br> 100 Grand Avenue | 5PM-7PM |  [RSVP](https://www.eventbrite.com/e/impossibletm-black-employee-networking-event-tickets-78496528229?aff=ayosuber)
 [Amazon Web Services Visits Oakland](https://aws-bts-oakland.splashthat.com) | [Amazon](https://www.amazon.jobs)| The Alice Collective <br> 272 14th Street | 5PM-8PM | [RSVP](https://aws-bts-oakland.splashthat.com)
@@ -124,6 +125,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 [Booze Cruise](https://boozecruise.eventbrite.com?aff=ayosuber) | [Juice for Color](www.juiceforcolor.com) | Jack London Square Boarding Dock <br> (between Scott's Restaurant and Waterfront Hotel) <br> 1 Broadway | 6:30PM-10PM | $70-$80 <br> [Buy Tickets](https://boozecruise.eventbrite.com?aff=ayosuber)
 [AmazonxAfroTech 2019 Fireside Chat and Reception](https://amazonxafrotechfiresidechat.splashthat.com) | [Amazon](https://www.amazon.jobs)| Location given if selected to attend | 6:30PM-10PM |[Register](https://amazonxafrotechfiresidechat.splashthat.com)
 [#ForTheCulture Tech After Hours](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 8PM-2AM |  [RSVP](https://weliftasweclimb.splashthat.com)
+[A Tribe Called AfroTech](https://atribecalledafrotech.splashthat.com)| [#BlackTechUnion](http://www.blacktechunion.com) | Complex Oakland <br> 420 14th St | 9PM-2AM |  [RSVP](https://atribecalledafrotech.splashthat.com)
 [TicketDM presents Carnival](https://thetownexperience.com/event/ticketdm-presents-carnival)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 10PM-2AM | $30 <br> [Buy Tickets](https://thetownexperience.com/event/ticketdm-presents-carnival)
 
 ### Sunday, November 10
@@ -141,7 +143,7 @@ Event                     | Host(s)      | Location     | Time       | Notes
 Company                     | Booth | Offerings
 :---------------------:| ------------- | -------------
 [![Square](https://xms-production-f.squarecdn.com/xms/assets/logos/square-22d4f700b4c53e104f17cab67cc34b9c27f99f2ea877069c6b2773d821a30004.svg)](https://squareup.com/us/en/careers) | | Stickers, Readers, Recruiters
-[Adobe](https://www.adobe.com/careers.html) | | T-shirts
+[Adobe](https://www.adobe.com/careers.html) | 81 | T-shirts
 [Bain](https://www.bain.com/careers) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
 [LinkedIn](https://careers.linkedin.com) | | On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
 [Peloton](https://www.onepeloton.com/careers) | | Stickers, Recruiters on-site at the booth
