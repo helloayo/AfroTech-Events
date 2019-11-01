@@ -170,7 +170,7 @@ Company                     | Booth | Offerings
 
 | Company    | Booth   | Offering           | Location     | Time       | Notes
 :---------------------:|------------- | ------------- | ------------ | -------- | ------------
-[Google](https://careers.google.com) | | [The Kick Back](https://events.withgoogle.com/the-kick-back-hosted-by-google) | 577 11th Street Parking Lot | 11AM-7PM | Immersive pop-up by Google <br> Registration will close Thursday Nov. 7 at 1PM <br> [Register](https://events.withgoogle.com/the-kick-back-hosted-by-google)
+[Google](https://careers.google.com) | | [The Kick Back](https://events.withgoogle.com/the-kick-back-hosted-by-google), an immersive pop-up by Google | 577 11th Street Parking Lot | 11AM-7PM | Registration will close Thursday Nov. 7 at 1PM <br> [Register](https://events.withgoogle.com/the-kick-back-hosted-by-google)
 [Lyft](https://www.lyft.com/careers) |  | Autonomous vehicle, bikes and scooters on site, recruiters | Outside of the Oakland Convention Center on 10 St. & Washington St. | | 
 [Twilio](https://www.twilio.com/company/jobs) | | [Resume Workshops](http://twiliolevelup.splashthat.com/github)| The Flight Deck <br> 1540 Broadway Street | 1PM-1:45PM <br> 3PM-3:45PM |  First-come, first serve until  capacity is reached <br> [Sign Up](http://twiliolevelup.splashthat.com/github)
 [Twilio](https://www.twilio.com/company/jobs) | | [LinkedIn Workshops](http://twiliolevelup.splashthat.com/github)| The Flight Deck <br> 1540 Broadway Street | 2PM-2:45PM <br> 4PM-4:45PM |  First-come, first serve until  capacity is reached <br> [Sign Up](http://twiliolevelup.splashthat.com/github)
