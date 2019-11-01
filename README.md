@@ -18,10 +18,8 @@ _**If your event costs money** and you'd like it promoted, [email me](mailto:afr
 
 👉🏾 Follow me (Ayo) for ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
 
----
-
 >_Please note that I do not work for AfroTech and I cannot answer any questions about the conference. This is just something I do for the people._
-<br>
+
 >_Some events may require an access code. If this is the case, get in touch with the event organizer or find someone who works at the company to help you get access._
 
 ---
