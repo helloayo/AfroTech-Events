@@ -4,19 +4,27 @@ Events, receptions, parties, and [expo related offerings](https://github.com/hel
 
 Check back often as this list is updated regularly! Or just watch the repo to get alerted.
 
+---
+
 **Contribute:**
 <br>
 If your event is **free**, send a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), open an [Issue](https://github.com/helloayo/Afrotech-Events/issues) or email [afrotech@ayosuber.com](mailto:afrotech@ayosuber.com). You can also submit your company's [expo related offerings](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#expo-related-offerings).
 <br>
 _**If your event costs money** and you'd like it promoted, [email me](mailto:afrotech@ayosuber.com?subject=AfroTech%20Event%20Promotion%20Ask) and we can work something out_
 
+---
+
 👉🏾 Follow me (Ayo) for ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
 
 Sharable link: [bit.ly/ayoafrotech](http://bit.ly/ayoafrotech)
 
+---
+
 _Please note that I do not work for AfroTech and I cannot answer any questions about the conference. This is just something I do for the people._
 <br>
 _Some events may require an access code. If this is the case, get in touch with the event organizer or find someone who works at the company to help you get access._
+
+---
 
 ## 2019 AfroTech Events
 
