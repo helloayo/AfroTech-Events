@@ -12,7 +12,7 @@ Sharable link: [bit.ly/ayoafrotech](http://bit.ly/ayoafrotech)
 
 If your event is **free**, send a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), open an [issue](https://github.com/helloayo/Afrotech-Events/issues) or email [afrotech@ayosuber.com](mailto:afrotech@ayosuber.com). You can also submit your company's [expo related offerings](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#expo-related-offerings).
 
-_**If your event costs money** and you'd like it promoted, [email me](mailto:afrotech@ayosuber.com?subject=AfroTech%20Event%20Promotion%20Ask) and we can work something out_
+_**If your event costs money** and you'd like it promoted, [email me](mailto:afrotech@ayosuber.com?subject=AfroTech%20Event%20Promotion%20Ask) and we can work something out. [Traffic stats](https://github.com/helloayo/AfroTech-Events/graphs/traffic)_ 
 
 ---
 
