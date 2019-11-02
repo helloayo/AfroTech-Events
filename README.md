@@ -70,7 +70,8 @@ Event                     | Host(s)      | Location     | Time       | Notes
 
 Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
-[Building a Bridge to Diversity Reception](https://forms.gle/eswxgyYKes5PNSPH8)| [SoftBank](https://group.softbank/en/corp/hr/careers) | Location given if selected to attend | 3PM-5PM | For founders looking to get funded <br> [Request an Invite](https://forms.gle/eswxgyYKes5PNSPH8)
+[Brunch & Dine with Your AfroTech Sistas](https://www.eventbrite.com/e/brunch-dine-with-your-afrotech-sistas-tickets-79249562575?aff=ayosuber) | [Shay Maudsley](https://www.linkedin.com/in/shaymaudsley) | Mockingbird <br> 416 13th Street | 11:30AM-2PM | [RSVP](https://www.eventbrite.com/e/brunch-dine-with-your-afrotech-sistas-tickets-79249562575?aff=ayosuber)
+[Building a Bridge to Diversity Reception](https://forms.gle/eswxgyYKes5PNSPH8)| [SoftBank](https://group.softbank/en/corp/hr/careers) | Location given if selected to attend | 3PM-5PM | For founders looking to get funded <br> [RSVP](https://forms.gle/eswxgyYKes5PNSPH8)
 [Open House at Pandora](https://openhouseatpandorahq.splashthat.com)| [Pandora](https://pandora.com/careers/all) | Pandora HQ <br> 2100 Franklin St #700 | 3:30PM-7PM | [Request an Invite](https://openhouseatpandorahq.splashthat.com)
 [Tech Meets Culture](https://rga-afrotech.splashthat.com)| [R/GA](https://www.rga.com/careers) | Bar Shiru <br> 1611 Telegraph Avenue | 4:30PM-7:30PM |[RSVP](https://rga-afrotech.splashthat.com)
 [“Welcome to Oakland” Opening Mixer](https://thetownexperience.com/event/welcome-to-oakland-opening-mixer)| [Pandora](https://pandora.com/careers/all) x [TicketDM](https://www.ticketdm.com) | Pandora HQ <br> 2100 Franklin St #700 | 5PM-7PM |  [RSVP](https://thetownexperience.com/event/welcome-to-oakland-opening-mixer)
