@@ -12,11 +12,11 @@ Sharable link: [bit.ly/ayoafrotech](http://bit.ly/ayoafrotech)
 
 If your event is **free**, send a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), open an [issue](https://github.com/helloayo/Afrotech-Events/issues) or email [afrotech@ayosuber.com](mailto:afrotech@ayosuber.com). You can also submit your company's [expo related offerings](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#expo-related-offerings).
 
-_**If your event costs money** and you'd like it promoted, [email me](mailto:afrotech@ayosuber.com?subject=AfroTech%20Event%20Promotion%20Ask) and we can work something out. [Traffic stats](https://github.com/helloayo/AfroTech-Events/graphs/traffic)_ 
+_**If your event costs money** and you'd like it promoted, [email me](mailto:afrotech@ayosuber.com?subject=AfroTech%20Event%20Promotion%20Ask) and we can work something out._ 
 
 ---
 
-👉🏾 Follow me (Ayo) for ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
+👉🏾 Follow me (Ayo) for event ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
 
 >_Please note that I do not work for AfroTech and I cannot answer any questions about the conference. This is just something I do for the people._
 
@@ -78,6 +78,7 @@ Event                     | Host(s)      | Location     | Time       | Notes
 [Made In The Town](https://www.eventbrite.com/e/impossibletm-black-employee-networking-event-tickets-78496528229?aff=ayosuber)| [Impossible Foods Inc. Black Employee Network](https://impossiblefoods.com/careers) | alaMar Kitchen & Bar <br> 100 Grand Avenue | 5PM-7PM |  [RSVP](https://www.eventbrite.com/e/impossibletm-black-employee-networking-event-tickets-78496528229?aff=ayosuber)
 [Amazon Web Services Visits Oakland](https://aws-bts-oakland.splashthat.com) | [Amazon](https://www.amazon.jobs)| The Alice Collective <br> 272 14th Street | 5PM-8PM | [RSVP](https://aws-bts-oakland.splashthat.com)
 [Pinterest Palooza](https://pinterestpalooza2019.splashthat.com)| [Pinterest](https://careers.pinterest.com/careers) | Pinterest HQ <br> 651 Brannan Street <br> **San Francisco**| 5PM-9:30PM | SF <br> [RSVP](https://pinterestpalooza2019.splashthat.com)
+[The African Diaspora At Cruise Happy Hour](https://events.getcruise.com/chhat)| [Cruise](https://www.getcruise.com/careers/jobs) | The Athletic Club Oakland <br> 59 Grand Ave| 5:30PM-7:30PM | [RSVP](https://events.getcruise.com/chhat)
 [Dropbox AfroTech 2019 Mixer](https://dropboxafrotech2019mixer.splashthat.com) | [Dropbox](https://www.dropbox.com/jobs)| Miss Ollie's <br> 901 Washington Street Oakland, CA | 5:45PM-8PM | [RSVP](https://dropboxafrotech2019mixer.splashthat.com)
 [Square Afrotech Happy Hour](https://squareafrotechhappyhour.splashthat.com)| [Square x BSA (Black Squares Association)](https://squareup.com/us/en/careers) | District Oakland <br> 827 Washington Street | 6PM-8PM |  [RSVP](https://squareafrotechhappyhour.splashthat.com)
 [CZI @ Afrotech!](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)| [Chan Zuckerberg Initiative](https://chanzuckerberg.com/join-us/openings) | Kingston 11 Cuisine <br> 2270 Telegraph Avenue | 6PM-8PM |  [RSVP](https://www.eventbrite.com/e/czi-afrotech-tickets-75014029983)
@@ -101,6 +102,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 [Afro Tech & The 100 Black Men of the Bay Area presents "Non-Techs in Tech"](https://www.eventbrite.com/e/afro-tech-the-100-black-men-of-the-bay-area-presents-non-techs-in-tech-tickets-76830063789?aff=ayosuber) | [100 Black Men](https://100blackmenba.org)| Era Art Bar & Lounge <br> 19 Grand Avenue | 3PM-8:30PM | [RSVP](https://www.eventbrite.com/e/afro-tech-the-100-black-men-of-the-bay-area-presents-non-techs-in-tech-tickets-76830063789?aff=ayosuber)
 [The Future is You](https://thefutureisyou.splashthat.com) | [Quantcast](https://www.quantcast.com/careers)| Impact Hub Oakland <br> 2323 Broadway | 4PM-6PM | [RSVP](https://thefutureisyou.splashthat.com)
 [Black and Brown Tech Workers Happy Hour](https://www.eventbrite.com/e/black-and-brown-tech-workers-happy-hour-tickets-77381974569) | [Coworker.org](https://home.coworker.org)| Tribune Tavern <br> 401 13th Street | 4PM-7PM | [RSVP](https://www.eventbrite.com/e/black-and-brown-tech-workers-happy-hour-tickets-77381974569)
+[OakLove: AfroTech Edition](https://www.eventbrite.com/e/oakloveafrotech-edition-tickets-75242437155?aff=ayosuber) | [![SoOakland](https://images.squarespace-cdn.com/content/57705621c534a52aa926e22b/1552692004521-8KHNM1PQ2IXXTRPNIV5W/sooak+logo.trnsp.png?format=100w&content-type=image%2Fpng)](https://www.instagram.com/sooakland) | Hello Stranger <br> 1724 Broadway | 4PM-9PM | $10 <br> [Get Tickets](https://www.eventbrite.com/e/oakloveafrotech-edition-tickets-75242437155?aff=ayosuber)
 [YouTube Happy Hour](https://events.withgoogle.com/the-kick-back-hosted-by-google) | [Google](https://careers.google.com) | 577 11th Street Parking Lot | 4:30PM-7PM | [RSVP](https://events.withgoogle.com/the-kick-back-hosted-by-google)
 [Fivetran x /dev/color x AfroTech: Happy Hour After Party](https://www.eventbrite.com/e/fivetran-x-devcolor-x-afrotech-happy-hour-after-party-tickets-78303380519?aff=ayosuber) | [Fivetran](https://fivetran/careers) x [/dev/color](https://www.devcolor.org)| Fort Green <br> 736 Washington St | 4:30PM-7:30PM | [RSVP](https://www.eventbrite.com/e/fivetran-x-devcolor-x-afrotech-happy-hour-after-party-tickets-78303380519?aff=ayosuber)
 [Wakanda DreamLab Interactive Exhibit](https://thetownexperience.com/event/wakanda-dreamlab-interactive-exhibit)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 5PM-8PM | [RSVP](https://thetownexperience.com/event/wakanda-dreamlab-interactive-exhibit)
@@ -120,6 +122,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 [Gaugr Live Mixer ft. Just Blaze](https://thetownexperience.com/event/gaugr-live-mixer)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 7PM-9PM | [Buy Tickets](https://thetownexperience.com/event/gaugr-live-mixer)
 [LinkedIn's Afrotech Mixer](https://linkedinafrotech2019.splashthat.com) | [LinkedIn](https://careers.linkedin.com) | Location given if selected to attend | 7PM-9PM | [Request an Invite](https://linkedinafrotech2019.splashthat.com)
 Peloton x AfroTech “Culture & Code” mixer | [Peloton](https://www.onepeloton.com/careers) | District Oakland <br> 827 Washington Street | 7PM-9PM | Peloton will reach out for invites
+Bandcamp presents [CONTAGIOUS SPIRIT: God Talk](https://www.eventbrite.com/e/contagious-spirit-god-talk-tickets-75964494849?aff=ayosuber), a music showcase featuring black women | [Bandcamp](https://bandcamp.com/jobs) | Bandcamp record store <br> 1901 Broadway| 7PM-10PM | Show up or donate for a secured ticket <br> [Donate for tickets](https://www.eventbrite.com/e/contagious-spirit-god-talk-tickets-75964494849?aff=ayosuber)
 [Microsoft VIP Cruise](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1SWy5cg3qVGgesG3cGzEOdUM05HSVY2TDJTQlBFN0RBNklKTDJJWFlDUS4u) | [Microsoft](https://careers.microsoft.com/us/en) | Jack London Square Boarding Dock <br> (between Scott's Restaurant and Waterfront Hotel) <br> 1 Broadway | 8PM-11PM | [RSVP](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1SWy5cg3qVGgesG3cGzEOdUM05HSVY2TDJTQlBFN0RBNklKTDJJWFlDUS4u)
 [AfroTech Welcome Event](https://web.cvent.com/event/f8d44520-b3ac-4bc0-b6e5-7d650f8f2fee/summary) | [Autodesk](https://www.autodesk.com/careers) | Autodesk Gallery at One Market <br> One Market, Floor 2 <br> **San Francisco** | 8PM-11PM | SF <br> [RSVP](https://web.cvent.com/event/f8d44520-b3ac-4bc0-b6e5-7d650f8f2fee/summary)
 [BREAKTHROUGH AFTERPARTY by Flatiron School](https://www.eventbrite.com/e/breakthrough-afterparty-by-flatiron-school-tickets-77433617033) | [Flatiron School](https://flatironschool.com/campuses/san-francisco) | WeWork <br>1111 Broadway| 8PM-11PM | [RSVP](https://www.eventbrite.com/e/breakthrough-afterparty-by-flatiron-school-tickets-77433617033)
@@ -153,6 +156,7 @@ Event                     | Host(s)      | Location     | Time       | Notes
 [Breakfast w. Goldman Sachs Engineering](https://recruiting360.avature.net/candidates/Register?projectId=12796&trk=ayosuber) | [Goldman Sacs](https://www.goldmansachs.com/careers/divisions/engineering/index.html) | Location given if selected to attend | 10AM-1PM | [Register by Monday](https://recruiting360.avature.net/candidates/Register?projectId=12796&trk=ayosuber)
 [RnB House Party x Twitter Brunch](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 11AM-3PM |  [RSVP](https://weliftasweclimb.splashthat.com)
 [Black People’s Brunch: Afrotech Edition](https://blackpeoplesbrunch.splashthat.com)| [Color Of Change](https://colorofchange.org/careers) | Calavera <br> 2337 Broadway | 11AM |  [RSVP](https://blackpeoplesbrunch.splashthat.com)
+[OakSoul AfroTech Closeout Edition Day Party](https://www.eventbrite.com/e/oaksoul-afrotech-close-out-tickets-76685521459?aff=ayosuber) | [![SoOakland](https://images.squarespace-cdn.com/content/57705621c534a52aa926e22b/1552692004521-8KHNM1PQ2IXXTRPNIV5W/sooak+logo.trnsp.png?format=100w&content-type=image%2Fpng)](https://www.instagram.com/sooakland) | Parliment <br> 811 Washington St | 2PM-8PM | $5-$10 <br> [RSVP](https://www.eventbrite.com/e/oaksoul-afrotech-close-out-tickets-76685521459?aff=ayosuber)
 
 ## Expo Related Offerings
 
@@ -164,7 +168,7 @@ Company                     | Booth | Offerings
 [Adobe](https://www.adobe.com/careers.html) | 81 | T-shirts
 [Bain](https://www.bain.com/careers) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
 [LinkedIn](https://careers.linkedin.com) | | Headshot photos, On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
-[Peloton](https://www.onepeloton.com/careers) | | Stickers, Recruiters on-site at the booth
+[Peloton](https://www.onepeloton.com/careers) | | Stickers, airpod cases, phone card holders, Recruiters on-site at the booth
 [R/GA](https://www.rga.com/careers) | 28 | Stickers, raffles
 
 ### Offsite Daily (Friday and Saturday)
