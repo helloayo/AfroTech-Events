@@ -4,7 +4,7 @@ Events, receptions, parties, and [expo related offerings](https://github.com/hel
 
 Check back often as this list is updated regularly! Or just watch the repo to get alerted.
 
-Sharable link: [bit.ly/ayoafrotech](http://bit.ly/ayoafrotech)
+Sharable link: [bit.ly/afrotechevents](http://bit.ly/afrotechevents)
 
 ---
 
