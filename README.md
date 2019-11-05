@@ -44,6 +44,7 @@ Event                   | Day     |   Time  |   Location   |
 :---------------------:|  ------------ | ------------ |------------ |
 [LGBTQ+ Happy Hour](https://sched.co/Wrur) | Thursday | 5:30PM-7PM | Forge Pizza <br> 66 Franklin St #100
 [South African Tourism Experience](https://sched.co/WrtQ) | Thursday | 7PM-10PM | Scott's Seafood Bar & Grill <br> 245 2nd St
+College & HBCU night | Thursday | 7PM-11PM | Plank <br> 472 Water St
 [Expo Floor DJ](https://sched.co/X9VE) | Friday | 1PM-3PM | Expo Floor
 [Musical Performance](https://sched.co/WuSA) | Friday | 2PM-3PM | Outdoor Campus
 [Corporate Happy Hour](https://sched.co/X3t1) (Corporate Tickets Only) | Friday | 5PM-6:30PM | Convention Center in Learning Lab
