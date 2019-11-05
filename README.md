@@ -64,7 +64,8 @@ Event                     | Host(s)      | Location     | Time       | Notes
 Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Black by Design](https://www.eventbrite.com/e/black-by-design-tickets-78277467011?aff=ayosuber) | [LinkedIn Design](https://careers.linkedin.com) | LinkedIn <br> 222 2nd Street <br> San Francisco | 5:30PM-8:30PM | SF <br> [RSVP](https://www.eventbrite.com/e/black-by-design-tickets-78277467011?aff=ayosuber)
-[Kick off Afrotech with Trivia Night at Reddit HQ!](https://www.eventbrite.com/e/kick-off-afrotech-with-trivia-night-at-reddit-hq-registration-74203993141?aff=ayosuber) | [Black People Reddit](https://www.redditinc.com/careers) | Reddit <br> 420 Taylor Street <br> **San Francisco** | 6PM-9PM | SF <br> [RSVP](https://www.eventbrite.com/e/kick-off-afrotech-with-trivia-night-at-reddit-hq-registration-74203993141?aff=ayosuber)
+[Kick off Afrotech with Trivia Night at Reddit HQ!](https://www.eventbrite.com/e/kick-off-afrotech-with-trivia-night-at-reddit-hq-registration-74203993141?aff=ayosuber) | [Black People Reddit](https://www.redditinc.com/careers) | Reddit <br> 420 Taylor Street <br> San Francisco | 6PM-9PM | SF <br> [RSVP](https://www.eventbrite.com/e/kick-off-afrotech-with-trivia-night-at-reddit-hq-registration-74203993141?aff=ayosuber)
+[A Pre #AfroTech2019 Fireside Chat + Networking Event](https://www.eventbrite.com/e/a-pre-afrotech2019-fireside-chat-networking-event-tickets-80002478567) | [Black Excellence at Lime (BEALe)](https://www.li.me/careers) | Lime HQ <br> 85 2nd Street <br> **San Francisco** | 6PM-8PM |SF <br>[RSVP](https://www.eventbrite.com/e/a-pre-afrotech2019-fireside-chat-networking-event-tickets-80002478567)
 
 ### Thursday, November 07
 
