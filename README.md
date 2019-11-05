@@ -149,7 +149,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 [AmazonxAfroTech 2019 Fireside Chat and Reception](https://amazonxafrotechfiresidechat.splashthat.com) | [Amazon](https://www.amazon.jobs)| Location given if selected to attend | 6:30PM-10PM |[Register](https://amazonxafrotechfiresidechat.splashthat.com)
 [#ForTheCulture Tech After Hours](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 8PM-2AM |  [RSVP](https://weliftasweclimb.splashthat.com)
 [A Tribe Called AfroTech](https://atribecalledafrotech.splashthat.com)| [#BlackTechUnion](http://www.blacktechunion.com) | Complex Oakland <br> 420 14th St | 9PM-2AM |  [RSVP](https://atribecalledafrotech.splashthat.com)
-[TicketDM presents Carnival](https://thetownexperience.com/event/ticketdm-presents-carnival)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 10PM-2AM | $30 <br> [Buy Tickets](https://thetownexperience.com/event/ticketdm-presents-carnival)
+[TicketDM presents Carnival](https://thetownexperience.com/event/ticketdm-presents-carnival)| [![TicketDm](https://d1qb2nb5cznatu.cloudfront.net/startups/i/3399276-599b83064d549d1101b777a4915c564c-medium_jpg.jpg)](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 10PM-2AM | $30 <br> [Buy Tickets](https://thetownexperience.com/event/ticketdm-presents-carnival)
 
 ### Sunday, November 10
 
