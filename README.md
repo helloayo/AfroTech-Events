@@ -52,6 +52,7 @@ Platinum Happy Hour (Platinum Tickets Only)| Friday | 5PM-7PM | | Plank <br> 472
 Event                   | Host(s)     |   About    |
 :---------------------:|  ------------ | ------------ |
 [![The Town Experience](https://i2.wp.com/thetownexperience.com/wp-content/uploads/2019/08/TTE2000x2000.jpg?zoom=1&fit=130%2C130&ssl=1)](https://thetownexperience.com)| [TicketDM](https://www.ticketdm.com) | Pop-up shops, art shows, mini tech events, street vendors, live music, and parties of all kinds will be positioned within a close radius of Afrotech. [Learn More](https://thetownexperience.com)
+[Get the moves during AfroTech](https://bay.movement.fm)| [Movement](https://bay.movement.fm) | Movement is the event platform for the culture. Stay in the know about the dopest events and places, curated by locals and see whats happening live before you pull up
 
 ### Tuesday, November 05
 
