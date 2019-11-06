@@ -106,7 +106,6 @@ Event                     | Host(s)      | Location     | Time       | Notes
 [#WeLiftAsWeClimb with Blackbirds](https://weliftasweclimb.splashthat.com)| [Twitter x Blackbirds](https://careers.twitter.com/en.html) | TwitterSF <br> 1355 Market St  <br> **San Francisco** | 6:30PM-8:30PM | SF <br> [RSVP](https://weliftasweclimb.splashthat.com)
 [Bain x AfroTech Kick-Off Reception](https://bain.avature.net/rsvp?folderId=25871) | [Bain](https://www.bain.com/careers) | Red Bay Coffee Public Roastery <br> 3098 E 10th St, Fruitvale | 6:30PM-8:30PM | [RSVP](https://bain.avature.net/rsvp?folderId=25871)
 [Meet Your Match](https://www.eventbrite.com/e/meet-your-match-tickets-73513030453) | [Patagonia](https://www.patagonia.com/careers.html) | Impact Hub Oakland <br> 2323 Broadway | 6:30PM-9:30PM | [RSVP](https://www.eventbrite.com/e/meet-your-match-tickets-73513030453)
-[Culture Connect](https://cultureconnectafrotech.splashthat.com) | Transparent Collective | Bar Shiru <br> 1611 Telegraph Ave | 8:30-11:30| [RSVP](https://cultureconnectafrotech.splashthat.com)
 [Music Reborn at Afrotech 2019](https://dolbyafrotech-musicreborn.splashthat.com) | [Dolby](https://www.dolby.com/us/en/about/careers/landing.html) | Halcyon SF <br> 314 11th St <br> **San Francisco** | 7PM-10PM | SF <br> [RSVP](https://www.dolby.com/us/en/about/careers/landing.html)
 [The Get Down](https://www.eventbrite.com/e/the-get-down-tickets-78570655947?aff=ayosuber) | [Afropolitan](http://afropolitangroup.com) | Level 13 Ultra Lounge <br> 341 13th Street | 10PM-3AM |  [RSVP](https://www.eventbrite.com/e/the-get-down-tickets-78570655947?aff=ayosuber)
 
@@ -177,6 +176,7 @@ Event                     | Host(s)      | Location     | Time       | Notes
 [RnB House Party x Twitter Brunch](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 11AM-3PM |  [RSVP](https://weliftasweclimb.splashthat.com)
 [Black People’s Brunch: Afrotech Edition](https://blackpeoplesbrunch.splashthat.com)| [Color Of Change](https://colorofchange.org/careers) | Calavera <br> 2337 Broadway | 11AM |  [RSVP](https://blackpeoplesbrunch.splashthat.com)
 [OakSoul AfroTech Closeout Edition Day Party](https://www.eventbrite.com/e/oaksoul-afrotech-close-out-tickets-76685521459?aff=ayosuber) | [![SoOakland](https://images.squarespace-cdn.com/content/57705621c534a52aa926e22b/1552692004521-8KHNM1PQ2IXXTRPNIV5W/sooak+logo.trnsp.png?format=100w&content-type=image%2Fpng)](https://www.instagram.com/sooakland) | Parliment <br> 811 Washington St | 2PM-8PM | $5-$10 <br> [RSVP](https://www.eventbrite.com/e/oaksoul-afrotech-close-out-tickets-76685521459?aff=ayosuber)
+[AfroTech Unplugged: SambaFunk! Sundays #SambaChurch](https://sambafunk.com/product/sambafunk-sundays-sambachurch) | [SambaFunk](https://sambafunk.com) | 1428 Alice St | 4PM-6PM | $10 flat fee for all AftoTech / HellaTech participants  <br> [RSVP](https://sambafunk.com/product/sambafunk-sundays-sambachurch)
 
 ## Expo Related Offerings
 
