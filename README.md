@@ -34,7 +34,12 @@ All events are free and located in Oakland, CA unless otherwise noted. Please do
 
 ---
 
-Get the moves during AfroTech. [Movement](https://bay.movement.fm) is the event platform for the culture. Stay in the know about the dopest events and places, curated by locals and see whats happening live before you pull up.
+<img src="https://gameplan-image-urls.s3.amazonaws.com/B5CD4131-D57C-4F7C-A10D-0B13BD6FA4F5.jpeg" alt="drawing" width="40"/>
+
+**Get the moves during AfroTech.**
+
+ [Movement](https://bay.movement.fm) is the event platform for the culture. Stay in the know about the dopest events and places, curated by locals and see whats happening live before you pull up.
+
 
 ---
 
