@@ -192,7 +192,8 @@ Company                     | Booth | Offerings
 [![Square](https://xms-production-f.squarecdn.com/xms/assets/logos/square-22d4f700b4c53e104f17cab67cc34b9c27f99f2ea877069c6b2773d821a30004.svg)](https://squareup.com/us/en/careers) | B35 | Stickers, Readers, Recruiters
 [Adobe](https://www.adobe.com/careers.html) | S1 | T-shirts
 [Bain](https://www.bain.com/careers) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
-[LinkedIn](https://careers.linkedin.com) | PR1 | Headshot photos, On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
+[LinkedIn](https://careers.linkedin.com) | PR1 | On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
+[Microsoft](https://careers.microsoft.com/us/en), [LinkedIn](https://careers.linkedin.com), [GitHub](https://github.com/about/careers) | PR1 | Headshots
 [Peloton](https://www.onepeloton.com/careers) | | Stickers, airpod cases, phone card holders, Recruiters on-site at the booth
 [R/GA](https://www.rga.com/careers) | B28 | Stickers, raffles
 
