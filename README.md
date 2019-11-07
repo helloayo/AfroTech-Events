@@ -32,6 +32,8 @@ Location: Oakland Convention Center, 10th Street, Oakland, CA, USA
 
 All events are free and located in Oakland, CA unless otherwise noted. Please double check the times!
 
+**Stop by the Square booth B35**
+
 ---
 
 <img src="https://gameplan-image-urls.s3.amazonaws.com/B5CD4131-D57C-4F7C-A10D-0B13BD6FA4F5.jpeg" alt="drawing" width="40"/>
@@ -187,11 +189,15 @@ Event                     | Host(s)      | Location     | Time       | Notes
 Company                     | Booth | Offerings
 :---------------------:| ------------- | -------------
 [![Square](https://xms-production-f.squarecdn.com/xms/assets/logos/square-22d4f700b4c53e104f17cab67cc34b9c27f99f2ea877069c6b2773d821a30004.svg)](https://squareup.com/us/en/careers) | 35 | Stickers, Readers, Recruiters
-[Adobe](https://www.adobe.com/careers.html) | 81 | T-shirts
+[Adobe](https://www.adobe.com/careers.html) | S1 | T-shirts
+[Alavara](https://www.avalara.com/us/en/about/jobs.html) | S2 | 
 [Bain](https://www.bain.com/careers) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
+[Flexport](https://www.flexport.com/careers/jobs/) | S3 |
+[Infor](https://www.avalara.com/us/en/about/jobs.html) | S4 | 
 [LinkedIn](https://careers.linkedin.com) | | Headshot photos, On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
 [Peloton](https://www.onepeloton.com/careers) | | Stickers, airpod cases, phone card holders, Recruiters on-site at the booth
 [R/GA](https://www.rga.com/careers) | 28 | Stickers, raffles
+[Twitter](https://www.avalara.com/us/en/about/jobs.html) | S1 | 
 
 ### Offsite Daily (Friday and Saturday)
 
