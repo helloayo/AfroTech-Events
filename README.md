@@ -237,6 +237,7 @@ Group             | Platform     | Notes
 :---------------------:| ------------- | ------------
 🧡💚[FAMUans @ AfroTech](https://groupme.com/join_group/45905834/UWxxdM) | Groupme | FAMUly only 🐍🐍🐍
 [AfroTech 2019 Groupme](http://groupme.com/join_group/51639162/fsitQJ23) | Groupme
+[Onyx @ Afrotech](https://web.groupme.com/join_group/55532409/OdD4ko1k) | Groupme
 [Sistas at AfroTech](http://groupme.com/join_group/45841051/jsygEk) | Groupme
 [AfroTech 2019 Slack](http://bit.ly/afrotech-2019) | Slack
 [AfroTech 2019 Connections](http://bit.ly/afrotech-connect) | Google Sheets | Database for people and jobs
