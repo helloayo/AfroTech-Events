@@ -66,6 +66,7 @@ Event                   | Host(s)     |   About    |
 :---------------------:|  ------------ | ------------ |
 [HellaTech](https://thetownexperience.com/event/hellatech) <br> [![HellaTech](https://i2.wp.com/thetownexperience.com/wp-content/uploads/2019/08/HELLATECH_BANNER_3_2ok.jpg?resize=150%2C89&ssl=1)](https://thetownexperience.com/event/hellatech)| [TicketDM](https://www.ticketdm.com) | Two days of tech, talks and turn-ups! Panels span the intersection of technology and diversity while exploring the topics most relevant to today’s communities and tomorrow’s leaders. [Learn More](https://thetownexperience.com/event/hellatech)
 [The Town Experience](https://thetownexperience.com) <br> [![The Town Experience](https://i2.wp.com/thetownexperience.com/wp-content/uploads/2019/08/TTE2000x2000.jpg?zoom=1&fit=130%2C130&ssl=1)](https://thetownexperience.com)| [TicketDM](https://www.ticketdm.com) | Pop-up shops, art shows, mini tech events, street vendors, live music, and parties of all kinds will be positioned within a close radius of Afrotech. [Learn More](https://thetownexperience.com)
+[Pre-AfroTech Guided Meditations](https://preafrotechmeditation.splashthat.com) | [Brocollete](https://www.brocollete.com) | Meditations daily Friday-Sunday from 8:30AM to 9AM at Impact Hub Oakland
 
 ### Tuesday, November 05
 
@@ -188,12 +189,12 @@ Event                     | Host(s)      | Location     | Time       | Notes
 
 Company                     | Booth | Offerings
 :---------------------:| ------------- | -------------
-[![Square](https://xms-production-f.squarecdn.com/xms/assets/logos/square-22d4f700b4c53e104f17cab67cc34b9c27f99f2ea877069c6b2773d821a30004.svg)](https://squareup.com/us/en/careers) | 35 | Stickers, Readers, Recruiters
+[![Square](https://xms-production-f.squarecdn.com/xms/assets/logos/square-22d4f700b4c53e104f17cab67cc34b9c27f99f2ea877069c6b2773d821a30004.svg)](https://squareup.com/us/en/careers) | B35 | Stickers, Readers, Recruiters
 [Adobe](https://www.adobe.com/careers.html) | S1 | T-shirts
 [Bain](https://www.bain.com/careers) | | [Consulting Converstaions - Grab a Time Slot](https://survey.eu.qualtrics.com/jfe/form/SV_55Z8LrjcwcQfQbj)
-[LinkedIn](https://careers.linkedin.com) | | Headshot photos, On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
+[LinkedIn](https://careers.linkedin.com) | PR1 | Headshot photos, On-site interviews for [Engineering](https://www.linkedin.com/organization/1337/campaign/7d133ebc-18e2-4b0d-bf89-6dce3fef298e), [Product](https://www.linkedin.com/organization/1337/campaign/9f9c40c7-4219-48ff-84c2-969ccd6dcce0), [UED](https://www.linkedin.com/organization/1337/campaign/26332bff-9523-432e-8387-4704c18d1092), and [Business](https://www.linkedin.com/organization/1337/campaign/4e13c9cd-630b-4314-91eb-cb5964d74d3c)
 [Peloton](https://www.onepeloton.com/careers) | | Stickers, airpod cases, phone card holders, Recruiters on-site at the booth
-[R/GA](https://www.rga.com/careers) | 28 | Stickers, raffles
+[R/GA](https://www.rga.com/careers) | B28 | Stickers, raffles
 
 ### Offsite Daily (Friday and Saturday)
 
@@ -222,6 +223,12 @@ Company                     | Booth | Offerings
 Opportunity              | Deadline      | Notes
 :---------------------:| ------------- | ------------
 ~[Google Travel and Conference Grants](https://docs.google.com/forms/d/e/1FAIpQLSf71z_QrNmd0cOpUOwY5vImXLiivnrVS_5tTY1JO4Q7beJ6aA/viewform)~| ~September 2, 2019~ | ~AfroTech tickets + up to $1000 in reimbursement for flight/accommodation costs <br> For any questions, please reach out to travel-grants@google.com~
+
+## Volunteer Opportunities
+
+Opportunity              | Org     | Notes
+:---------------------:| ------------- | ------------
+[Kapor x Afrotech Volunteer Opportunities](https://www.volunteersignup.org/XDAXT) | [Kapor Center](https://www.kaporcenter.org/about/jobs) | Volunteers will only have access to the Saturday sessions at Kapor Center.
 
 ## Connect With Others During the Conference
 
