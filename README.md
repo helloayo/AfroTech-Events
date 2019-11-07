@@ -32,7 +32,7 @@ Location: Oakland Convention Center, 10th Street, Oakland, CA, USA
 
 All events are free and located in Oakland, CA unless otherwise noted. Please double check the times!
 
-**Stop by the Square booth B35**
+**Stop by the [Square](https://squareup.com/us/en/careers) booth B35**
 
 ---
 
