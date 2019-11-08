@@ -244,5 +244,6 @@ Group             | Platform     | Notes
 [Sistas at AfroTech](http://groupme.com/join_group/45841051/jsygEk) | Groupme
 [AfroTech 2019 Slack](http://bit.ly/afrotech-2019) | Slack
 [AfroTech 2019 Connections](http://bit.ly/afrotech-connect) | Google Sheets | Database for people and jobs
+[Solo Dojos of AfroTech](https://app.groupme.com/join_group/55575997/mduiDifZ) | GroupMe | For those who came to AfroTech solo
 
 Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events), [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships), and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
