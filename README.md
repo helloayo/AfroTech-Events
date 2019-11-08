@@ -116,6 +116,7 @@ Event                     | Host(s)      | Location     | Time       | Notes
 
 Event                     | Host(s)       | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Pre-AfroTech Guided Meditations](https://preafrotechmeditation.splashthat.com) | [Brocollete](https://www.brocollete.com) | Impact Hub Oakland <br> 2323 Broadway | 8:30AM-9AM | [RSVP](https://preafrotechmeditation.splashthat.com)
 [Breakfast with Twitter's Leaders!](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 9AM-11AM |  [RSVP](https://weliftasweclimb.splashthat.com)
 [HellaTech](https://thetownexperience.com/event/hellatech)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 10:30AM-6PM |  [Buy Tickets](https://thetownexperience.com/event/hellatech)
 [Un-Afro Tech Yoga](https://www.eventbrite.com/e/un-afro-tech-yoga-tickets-79222473551)| [Your Local Yoga Dealer](https://www.instagram.com/sincerely_scott) | WeWork City Center <br> 1111 Broadway | 11:30AM-12:30PM |  [Donate](https://www.eventbrite.com/e/un-afro-tech-yoga-tickets-79222473551)
@@ -158,6 +159,7 @@ Bandcamp presents [CONTAGIOUS SPIRIT: God Talk](https://www.eventbrite.com/e/con
 Event                     | Host(s)       | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
 [Recruiter Coffee Bar](https://netflixchillrecruitercoffeebar.splashthat.com/)| [Netflix](https://www.ticketdm.com) | 1544 Events<br> 1544 Broadway| 7:30AM-9:30AM |  Limted to those that work in Talent Acquisition <br>[RSVP](https://netflixchillrecruitercoffeebar.splashthat.com/)
+[Pre-AfroTech Guided Meditations](https://preafrotechmeditation.splashthat.com) | [Brocollete](https://www.brocollete.com) | Impact Hub Oakland <br> 2323 Broadway | 8:30AM-9AM | [RSVP](https://preafrotechmeditation.splashthat.com)
 [The Annual Wellness Day](https://www.eventbrite.com/e/the-annual-wellness-day-presented-by-black-girl-in-om-and-the-assembly-tickets-77140512349?discount=FRIENDSANDFAMILY&aff=ayosuber)| [Black Girl in Om](http://www.blackgirlinom.com) x [The Assembly](https://www.theassembly.com) | The Assembly SF <br> 449 14th Street <br> **San Francisco** | 9AM-6:30PM | $75 with discount code FRIENDSANDFAMILY <br> (already applied in link) <br>   [Buy Tickets](https://www.eventbrite.com/e/the-annual-wellness-day-presented-by-black-girl-in-om-and-the-assembly-tickets-77140512349?discount=FRIENDSANDFAMILY&aff=ayosuber)
 [HellaTech](https://thetownexperience.com/event/hellatech)| [TicketDM](https://www.ticketdm.com) | The Uptown Nightclub! <br> 1928 Telegraph Ave | 10:30AM-6:15PM |  [Buy Tickets](https://thetownexperience.com/event/hellatech)
 [The Afropolitan Day Party (Afrotech Edition)](https://afropolitanafrotec.eventbrite.com?aff=ayosuber) | [Afropolitan](http://afropolitangroup.com) | 1255 7th Street | 3:00PM-8:00PM |  [RSVP](https://www.eventbrite.com/e/the-afropolitan-day-party-afrotech-edition-tickets-71596062751)
@@ -177,6 +179,7 @@ Event                     | Host(s)       | Location     | Time       | Notes
 
 Event                     | Host(s)      | Location     | Time       | Notes
 :---------------------:| ------------- | ------------ | -------- | ------------
+[Pre-AfroTech Guided Meditations](https://preafrotechmeditation.splashthat.com) | [Brocollete](https://www.brocollete.com) | Impact Hub Oakland <br> 2323 Broadway | 8:30AM-9AM | [RSVP](https://preafrotechmeditation.splashthat.com)
 [Breakfast w. Goldman Sachs Engineering](https://recruiting360.avature.net/candidates/Register?projectId=12796&trk=ayosuber) | [Goldman Sacs](https://www.goldmansachs.com/careers/divisions/engineering/index.html) | Location given if selected to attend | 10AM-1PM | [Register by Monday](https://recruiting360.avature.net/candidates/Register?projectId=12796&trk=ayosuber)
 [RnB House Party x Twitter Brunch](https://weliftasweclimb.splashthat.com)| [Twitter](https://careers.twitter.com/en.html) | TBD | 11AM-3PM |  [RSVP](https://weliftasweclimb.splashthat.com)
 [Black People’s Brunch: Afrotech Edition](https://blackpeoplesbrunch.splashthat.com)| [Color Of Change](https://colorofchange.org/careers) | Calavera <br> 2337 Broadway | 11AM |  [RSVP](https://blackpeoplesbrunch.splashthat.com)
