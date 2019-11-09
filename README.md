@@ -12,15 +12,15 @@ Sharable link: [bit.ly/afrotechevents](http://bit.ly/afrotechevents)
 
 If your event is **free**, send a [pull request](https://github.com/helloayo/Afrotech-Events/pulls), open an [issue](https://github.com/helloayo/Afrotech-Events/issues) or email [afrotech@ayosuber.com](mailto:afrotech@ayosuber.com). You can also submit your company's [expo related offerings](https://github.com/helloayo/AfroTech-Events/blob/master/README.md#expo-related-offerings).
 
-_**If your event costs money** and you'd like it promoted, [email me](mailto:afrotech@ayosuber.com?subject=AfroTech%20Event%20Promotion%20Ask) and we can work something out._ 
+_**If your event costs money** and you'd like it promoted, [email me](mailto:afrotech@ayosuber.com?subject=AfroTech%20Event%20Promotion%20Ask) and we can work something out._
 
 ---
 
 👉🏾 Follow me (Ayo) for event ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
 
->_Please note that I do not work for AfroTech and I cannot answer any questions about the conference. This is just something I do for the people._
+_Please note that I do not work for AfroTech and I cannot answer any questions about the conference. This is just something I do for the people._
 
->_Some events may require an access code. If this is the case, get in touch with the event organizer or find someone who works at the company to help you get access._
+_Some events may require an access code. If this is the case, get in touch with the event organizer or find someone who works at the company to help you get access._
 
 ---
 
@@ -33,6 +33,8 @@ Location: Oakland Convention Center, 10th Street, Oakland, CA, USA
 All events are free and located in Oakland, CA unless otherwise noted. Please double check the times!
 
 **Stop by the [Square](https://squareup.com/us/en/careers) booth B35**
+
+Lyft is offering discounts on rides: use code ATC2019
 
 ---
 
