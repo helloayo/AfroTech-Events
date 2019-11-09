@@ -16,7 +16,7 @@ _**If your event costs money** and you'd like it promoted, [email me](mailto:afr
 
 ---
 
-👉🏾 Follow me (Ayo) for event ticket giveaways! [@helloayo](https://instagram.com/helloayo) 👈🏾
+👉🏾 Follow me (Ayo) [@helloayo](https://instagram.com/helloayo) 👈🏾
 
 _Please note that I do not work for AfroTech and I cannot answer any questions about the conference. This is just something I do for the people._
 
