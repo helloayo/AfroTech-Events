@@ -36,6 +36,9 @@ All events are free and located in Oakland, CA unless otherwise noted. Please do
 
 Lyft is offering discounts on rides: use code ATC2019
 
+Wifi network: AfroTech 2019 
+Password: CollectivePower
+
 ---
 
 <img src="https://gameplan-image-urls.s3.amazonaws.com/B5CD4131-D57C-4F7C-A10D-0B13BD6FA4F5.jpeg" alt="drawing" width="40"/>
