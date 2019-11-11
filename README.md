@@ -39,7 +39,6 @@ All events are free and located in Oakland, CA unless otherwise noted. Please do
 Event                   | Day     |   Time  |   Location   |
 :---------------------:|  ------------ | ------------ |------------ |
 
-
 ### Weeklong (November 12-15)
 
 Event                   | Host(s)     |   About    |
@@ -77,25 +76,15 @@ Event                     | Host(s)      | Location     | Time       | Notes
 
 ## Expo Related Offerings
 
-### Daily (Friday and Saturday)
+### Onsite
 
 Company                     | Booth | Offerings
 :---------------------:| ------------- | -------------
 
-### Offsite Daily (Friday and Saturday)
+### Offsite
 
 | Company    |  Offering           | Location     | Time       | Notes
 :---------------------:|------------- | ------------- | ------------ | -------- 
-
-### Friday, November 13
-
-Company                     | Booth | Offerings
-:---------------------:| ------------- | -------------
-
-### Saturday, November 14
-
-Company                     | Booth | Offerings
-:---------------------:| ------------- | -------------
 
 ## Travel Grants and Scholarships
 
