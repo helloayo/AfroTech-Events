@@ -100,5 +100,7 @@ Opportunity              | Org     | Notes
 
 Group             | Platform     | Notes
 :---------------------:| ------------- | ------------
+[The 'Unofficial' AfroTech Slack Channel](https://afrotech-unofficial.slack.com) | Slack
+[AfroTech Connections](http://bit.ly/afrotech-connect) | Google Sheets | Database for people and jobs
 
 Inspired by [GHC-Events](https://github.com/missCarrieMah/GHC-Events), [Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships), and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)
